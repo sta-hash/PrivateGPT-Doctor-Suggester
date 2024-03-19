@@ -1,0 +1,3676 @@
+{
+    "sgr": {
+        "1": {
+            "name": "(Prof.) D.S. Rana",
+            "degree": "M.B.B.S., M.D., M.N.A.M.S",
+            "dept": "Nephrology",
+            "mobile": "9811033984",
+            "email": "dsrana39@gmail.com",
+            "treatment": "Clinical Nephrology, Dialysis & Transplantation"
+        },
+        "2": {
+            "name": "B.K. Rao",
+            "degree": "M.B.B.S., M.D. (Anaesthesia)",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9811177755",
+            "email": "drbkrao@gmail.com",
+            "treatment": ""
+        },
+        "3": {
+            "name": "Aditya Sarin",
+            "degree": "MBBS, MS (ENT), DLO ",
+            "dept": "Medical Oncology",
+            "mobile": "9999998523",
+            "email": "dradityasarin@gmail.com",
+            "treatment": "Chemotherapy, Targeted Therapy and Immunotherapy"
+        },
+        "4": {
+            "name": "Ajay Swaroop",
+            "degree": "MBBS, MS (ENT), DLO ",
+            "dept": "E.N.T.",
+            "mobile": "9811021911",
+            "email": "swaroopent@yahoo.com",
+            "treatment": "Otology & Head & Neck"
+        },
+        "5": {
+            "name": "(Prof.) A.K. Bhalla",
+            "degree": "M.B.B.S., M.D., D.M, M.N.A.M.S, F.I.S.N.",
+            "dept": "Nephrology",
+            "mobile": "9811047377",
+            "email": "drbhallaak@gmail.com",
+            "treatment": "Peritoneal dialysis, Vascular access in H.D, ABO incompatible kidney Transplants"
+        },
+        "6": {
+            "name": "Jayashree Sood",
+            "degree": "M.B.B.S., M.D., FFARCS, PGDHM",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811294608",
+            "email": "jayashreesood@hotmail.com",
+            "treatment": "Anesthesia, Pain and Palliative"
+        },
+        "7": {
+            "name": "A.K. Grover",
+            "degree": "MD, MNAMS",
+            "dept": "Ophthalmology",
+            "mobile": "09811083026",
+            "email": "akgrover55@yahoo.com",
+            "treatment": ""
+        },
+        "8": {
+            "name": "Pooja Khosla",
+            "degree": "MBBS, MD(Internal Medicine)",
+            "dept": "Medicine",
+            "mobile": "9818288194",
+            "email": "drpoojakhosla@yahoo.com",
+            "treatment": "HIV Medicine"
+        },
+        "9": {
+            "name": "Vijay Arora",
+            "degree": "M.B.B.S., M.S., F.A.C.S, F.I.C.S., F.R.C.S. (Glasgow)",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9811047384",
+            "email": "drarora1@gmail.com",
+            "treatment": "Colo- Rectal, Pancreatitis, Breast DiseasesResearch interest in investigation of constipationMinimally invasive treatment of piles; Ongoing project on Fistula Plug evaluation"
+        },
+        "10": {
+            "name": "Parveen Bhatia",
+            "degree": "",
+            "dept": "Minimal Access & Bariatric Surgery Centre",
+            "mobile": "9810008507",
+            "email": "bhatiaglobal@gmail.com",
+            "treatment": ""
+        },
+        "11": {
+            "name": "Shyam Aggarwal",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Medical Oncology",
+            "mobile": "9811075870",
+            "email": "drshyam_aggarwal@yahoo.com",
+            "treatment": "Medical Oncology & Bone Marrow Transplant"
+        },
+        "12": {
+            "name": "(Prof.) Surender Kumar",
+            "degree": "MBBS, MD (Medicine), DM (Endocrinology), AIIMS",
+            "dept": "Endocrinology & Metabolism",
+            "mobile": "9810195147",
+            "email": "doctorsuren@yahoo.co.uk",
+            "treatment": "Diabetes, Thyroid, Obesity and Other Hormonal Problems"
+        },
+        "13": {
+            "name": "Bobby Bhalotra",
+            "degree": "M.B.B.S., M.D. (Respiratory diseases & Tuberculosis)",
+            "dept": "Chest Medicine",
+            "mobile": "9810086865",
+            "email": "bobbybhalotra1@yahoo.co.in",
+            "treatment": "Asthma Allergies Interstitial Lung Disease Bronchoscopy"
+        },
+        "14": {
+            "name": "J.P.S. Sawhney",
+            "degree": "MD, DM (Cardiology), FESC, FACC",
+            "dept": "Cardiology",
+            "mobile": "9810059773",
+            "email": "jpssawhney@yahoo.com",
+            "treatment": "Coronary Artery Disease\r\nDyslipidemia\r\nAtrial Fibrillation\r\nHeart Failure"
+        },
+        "15": {
+            "name": "(Prof.) Chintamani",
+            "degree": null,
+            "dept": "Surgical Oncology",
+            "mobile": "9810064920",
+            "email": "drchintamani7@gmail.com",
+            "treatment": "Surgical Oncology"
+        },
+        "16": {
+            "name": "(Prof.)Anuradha Batra",
+            "degree": "",
+            "dept": "Neurology",
+            "mobile": "9873244092",
+            "email": "docanubatra@yahoo.com",
+            "treatment": "Stroke, Epilepsy, Parkinson's, Neuromuscular and Gait Disorders."
+        },
+        "17": {
+            "name": "Aayush",
+            "degree": null,
+            "dept": "Paediatrics",
+            "mobile": "9589893911",
+            "email": "i.aayushgupta@gmail.com",
+            "treatment": "Diabetes\r\nCalcium Disorders"
+        },
+        "18": {
+            "name": "Abha Majumdar",
+            "degree": "MBBS, MS, FICS",
+            "dept": "IVF & Human Reproduction",
+            "mobile": "9810315807",
+            "email": "abhamajumdar@hotmail.com",
+            "treatment": "Infertility, ART, Reproductive endocrinology, Endoscopic surgery for pelvic resurrection and ART"
+        },
+        "19": {
+            "name": "Abhinav Guliani",
+            "degree": null,
+            "dept": "Chest Medicine",
+            "mobile": "9718302294",
+            "email": "abhinavguliani@hotmail.com",
+            "treatment": "Asthma, Pleural disease, Interventional Pulmonology"
+        },
+        "20": {
+            "name": "Abhishek Gupta",
+            "degree": null,
+            "dept": "Urology",
+            "mobile": "9868075049",
+            "email": "gupta_abhi@hotmail.com",
+            "treatment": "Endo-urology, Uro-oncology, Renal Transplant, Laparoscopic and Robotic Urology, Andrology, Reconstructive Urology"
+        },
+        "21": {
+            "name": "Abhjit Singh Pahwa",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9650140022",
+            "email": "drabhjit@gmail.com",
+            "treatment": ""
+        },
+        "22": {
+            "name": "Aditi Sud",
+            "degree": "MBBS, DNB (Radiodiagnosis)",
+            "dept": "CT Scan & MRI",
+            "mobile": "9810298428",
+            "email": "draditisud@yahoo.co.in",
+            "treatment": ""
+        },
+        "23": {
+            "name": "Aditya Kaushik",
+            "degree": "",
+            "dept": "Homeopathy",
+            "mobile": "9811126648",
+            "email": "draditya@rocketmail.com",
+            "treatment": ""
+        },
+        "24": {
+            "name": "Ajay Aggarwal",
+            "degree": null,
+            "dept": "Endocrinology & Metabolism",
+            "mobile": "9818691391",
+            "email": "endocrinologist39@yahoo.co.in",
+            "treatment": ""
+        },
+        "25": {
+            "name": "Ajay Bharija",
+            "degree": null,
+            "dept": "Dental Surgery",
+            "mobile": "9810754359",
+            "email": "a.bharija@gmail.com",
+            "treatment": "Prosthodontics, Dental Implants, Full Mouth Rehabilitation, Esthetic Dentistry, Procelain Veneers, Smile Makeovers"
+        },
+        "26": {
+            "name": "Ajay Yadav",
+            "degree": "MBBS, MS(General Surgery), FNBE(Vascular Surgery), MRCS(Glasgow)",
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "09717183355",
+            "email": "ajay.vascular@gmail.com",
+            "treatment": "Vascular and Endovascular Surgery"
+        },
+        "27": {
+            "name": "Ajay Bhutani",
+            "degree": "M.B.B.S., M.S., M.Ch",
+            "dept": "Spinal Surgery",
+            "mobile": "9810184660",
+            "email": "ajaybhutani.63@gmail.com",
+            "treatment": "Spinal Neurosurgery"
+        },
+        "28": {
+            "name": "Ajay Sharma",
+            "degree": "MBBS, MS (General Surgery), MCh (Urology)",
+            "dept": "Urology",
+            "mobile": "9810154841",
+            "email": "drajay303@hotmail.com",
+            "treatment": "Laparoscopic Surgery"
+        },
+        "29": {
+            "name": "Ajay Sirohi",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9873149118",
+            "email": "drajaysirohi@gmail.com",
+            "treatment": ""
+        },
+        "30": {
+            "name": "Ajit Kr. Yadav",
+            "degree": null,
+            "dept": "Interventional Radiology",
+            "mobile": "9654466159",
+            "email": "yadavajitdr@gmail.com",
+            "treatment": "Onco-Interventions"
+        },
+        "31": {
+            "name": "Ajit K. Sinha",
+            "degree": "M.B.B.S., M.S.,M.Ch",
+            "dept": "Neurosurgery",
+            "mobile": "9810444165",
+            "email": "ajitalkasinha@yahoo.co.uk",
+            "treatment": "Minimal Access Neurosurgery"
+        },
+        "32": {
+            "name": "Akhil Kumar",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9899585042",
+            "email": "drgucchikumar25@gmail.com",
+            "treatment": ""
+        },
+        "33": {
+            "name": "Alok Agarwal",
+            "degree": "M.B.B.S., M.S. (ENT)",
+            "dept": "E.N.T.",
+            "mobile": "9811211667",
+            "email": "dralokagarwal@yahoo.co.in",
+            "treatment": "Endoscopic Sinus Surgery, Paediatric Otorhinolarynology, Paediatric Cochlear Implantation & Various Laser and Coblaion ENT surgeries"
+        },
+        "34": {
+            "name": "Alok Kumar",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9891116343",
+            "email": "alok.lnjp@gmail.com",
+            "treatment": ""
+        },
+        "35": {
+            "name": "Alpana Prasad",
+            "degree": "MBBS, MS( Gen.Surgery), MCh( Pediatric Surgery)",
+            "dept": "Paediatric Surgery",
+            "mobile": "9810645863",
+            "email": "alpanaprasad@hotmail.com",
+            "treatment": "Neonatal Surgery, Pediatric G.I.Surgery and Urology, Minimal Access Surgery in Children"
+        },
+        "36": {
+            "name": "Aman Makhija",
+            "degree": "M.B.B.S, M.D., D.M.",
+            "dept": "Cardiology",
+            "mobile": "9310928258",
+            "email": "amanmakhija@gmail.com",
+            "treatment": "Complex Coronary Interventions & Angioplasty Using Advance Techniques, Arrhythmia, Atrial Fibrillation, Cardiomyopathy, Valve Disorders, Pacemaker / Aicd / Crt-P / Crt-D Implantation"
+        },
+        "37": {
+            "name": "Amarjeet Singh",
+            "degree": "M.B.B.S., M.S. (Ortho)- Lucknow University",
+            "dept": "Orthopaedics",
+            "mobile": "9350803983",
+            "email": "amarjeetarthscopy@yahoo.co.in",
+            "treatment": "Arthoscopy Surgery - ACL Reconstruction, Arthroscopy of Knee, Shoulder, Ankle and Wrist"
+        },
+        "38": {
+            "name": "Amarjeet Singh (Anaesthesia)",
+            "degree": "MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811053555",
+            "email": "singha13@yahoo.co.in",
+            "treatment": ""
+        },
+        "39": {
+            "name": "Ambarish Satwik",
+            "degree": "",
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9810079179",
+            "email": "asatwik@gmail.com",
+            "treatment": "Minimally invasive (endovascular) treatment of arterial / venous diseases,  laser ablation of varicose veins, DVT, carotid surgery / angioplasty for stroke prevention, endovascular repair of aortic aneurysms, duplex ultrasound, diabetic foot care"
+        },
+        "40": {
+            "name": "Ambuj Garg",
+            "degree": "",
+            "dept": "Medicine",
+            "mobile": "9810092313",
+            "email": "dr_ambuj@yahoo.com",
+            "treatment": ""
+        },
+        "41": {
+            "name": "Amit Dhamija",
+            "degree": "M.B.B.S, M.D.",
+            "dept": "Chest Medicine",
+            "mobile": "9811684520",
+            "email": "dhamijaamit09@gmail.com",
+            "treatment": "Chest Medicine"
+        },
+        "42": {
+            "name": "Amit Khosla",
+            "degree": "MD, DNB",
+            "dept": "Ophthalmology",
+            "mobile": "9811060501",
+            "email": "amitkhosla@hotmail.com",
+            "treatment": "Vitreo-Retinal Surgery"
+        },
+        "43": {
+            "name": "Amitabh Dutta",
+            "degree": "MD (Anesathesia)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810848064",
+            "email": "duttaamitabh@yahoo.co.in",
+            "treatment": ""
+        },
+        "44": {
+            "name": "Amitabh Yadav",
+            "degree": null,
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9811337016",
+            "email": "amitabhyadav99@gmail.com",
+            "treatment": "Pancreatic disorders with special interest in the surgeries of pancreatitis and pancreatic cancers, advanced laparoscopic GI surgeries, including Gastro-Intestinal and Hepatobiliary-Pancreatic cancers."
+        },
+        "45": {
+            "name": "Amrendra Pathak",
+            "degree": null,
+            "dept": "Urology",
+            "mobile": "9818484356, 9891589561",
+            "email": "pathakamrendra64@gmail.com",
+            "treatment": "Endourology, Reconstructive Urology, Hypospadias and Laparoscopic Surgery"
+        },
+        "46": {
+            "name": "Amrita Sawhney",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "9871711521",
+            "email": "amrita.sawhney3@gmail.com",
+            "treatment": "Cataract and Oculoplasty"
+        },
+        "47": {
+            "name": "Amrita Saraf",
+            "degree": "",
+            "dept": "Haematology and Clinical Pathology",
+            "mobile": "9811624334",
+            "email": "amrita.saraf1@gmail.com",
+            "treatment": ""
+        },
+        "48": {
+            "name": "Anant Kumar Tiwari",
+            "degree": "",
+            "dept": "Joint Replacement Surgery",
+            "mobile": "9711880188",
+            "email": "draktiwari@ymail.com",
+            "treatment": "Joint Replacement & Reconstruction Surgery"
+        },
+        "49": {
+            "name": "(Prof.) Anil Arora",
+            "degree": "MBBS, MD, DNB (MED), DM (GASTRO), FRCP (EDINBURGH)",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9811047385",
+            "email": "dranilarora50@hotmail.com, dranilarora50@gmail.com",
+            "treatment": "Hepatology, Viral Hepatitis, Cirrhosis Liver, Liver Transplantation, Therapeutic Endoscopy, Stem Cell Therapy in Liver Diseases, Pancreatitis"
+        },
+        "50": {
+            "name": "Anil Solanki",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "09711113625",
+            "email": "anilsolanki2007@gmail.com",
+            "treatment": "Vitreo - Retina"
+        },
+        "51": {
+            "name": "Anil Kumar",
+            "degree": null,
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9711174623",
+            "email": "aniels.anil@gmail.com",
+            "treatment": ""
+        },
+        "52": {
+            "name": "Anil Sachdev",
+            "degree": "M.B.B.S., M.D., D.CH, D.M.R.D ",
+            "dept": "Paediatrics",
+            "mobile": "9810098360",
+            "email": "anilcriticare@gmail.com",
+            "treatment": ""
+        },
+        "53": {
+            "name": "Anil Kumar Jain",
+            "degree": "MBBS, MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811005826",
+            "email": "akfeb55jain@gmail.com",
+            "treatment": "Minimal Access Surgery, Intensive Care, Teaching, Bariatric Anaesthesia"
+        },
+        "54": {
+            "name": "Anil Kumar Monga",
+            "degree": "MBBS, MS (ENT), DORL, FCPS",
+            "dept": "E.N.T.",
+            "mobile": "9810050152",
+            "email": "dramonga@yahoo.com",
+            "treatment": "Otology - Microsurgery of the Ear, Cochlear Implantation, Surgery for Larynx and Snoring with Laser"
+        },
+        "55": {
+            "name": "A.K. Seth",
+            "degree": "DHMS",
+            "dept": "Homeopathy",
+            "mobile": "9811090486",
+            "email": "dr_akseth@hotmail.com",
+            "treatment": ""
+        },
+        "56": {
+            "name": "Anirban Roy",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9910181136",
+            "email": "dr.anirvan@gmail.com",
+            "treatment": ""
+        },
+        "57": {
+            "name": "Anisha Sharma",
+            "degree": null,
+            "dept": "Biochemistry",
+            "mobile": "9910008429",
+            "email": "dranisha85@gmail.com",
+            "treatment": ""
+        },
+        "58": {
+            "name": "Anita Sharma",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "8447346448",
+            "email": "dr.anitasharma17@gmail.com",
+            "treatment": "Vitreo Retina, UVEA"
+        },
+        "59": {
+            "name": "Anita Mahajan",
+            "degree": "MD (Psychiatry)",
+            "dept": "Psychiatry",
+            "mobile": "9811211569",
+            "email": "anita.mahajan@gmail.com",
+            "treatment": "General Psychiatry,  Psychotherapies"
+        },
+        "60": {
+            "name": "Anita Ganger",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "9818506637",
+            "email": "anitaganger@gmail.com",
+            "treatment": "Phaco-emulsifilation (Cataract Surgery), Refractive Surgery (LASIK / PRK), Squint Surgeries, Neuro-ophthalmology, Cornea (Keratitis, Corneal Opacity, Keratoplasties), Pediatric Cataract"
+        },
+        "61": {
+            "name": "Anivita Aggarwal",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "8287186636",
+            "email": "anivita.aggarwal@sgrh.com",
+            "treatment": "Infectious Diseases consultant with extensive experience in managing difficult to treat infections such as transplant (HSCT and SOT) related infections, fever of unknown origin, HIV, Tuberculosis, COVID-19 along with post COVID care, ICU infections, brain infections, bone and joint infections, post-surgical infections, sepsis and septic shock, fungal infections, parasitic infections , immunodeficiency disorders and rare infectious diseases."
+        },
+        "62": {
+            "name": "Anjali Gera",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811571080",
+            "email": "anjali_chawla@yahoo.com",
+            "treatment": ""
+        },
+        "63": {
+            "name": "Anjali Manocha",
+            "degree": "MBBS, MD",
+            "dept": "Biochemistry",
+            "mobile": "9810362648",
+            "email": "anjalimanocha@yahoo.co.in",
+            "treatment": ""
+        },
+        "64": {
+            "name": "Anjali Arora",
+            "degree": "MBBS, MD",
+            "dept": "Cardiology",
+            "mobile": "9811070029",
+            "email": "arora_doc@hotmail.com",
+            "treatment": "Lipids and Associated diseases, Lifestyle Diseases, Executive Health Check Up, guidance for hyperlipidemic patients having gallstones, pancreatitis, renal disease and stroke."
+        },
+        "65": {
+            "name": "Anjeleena Kumar Gupta",
+            "degree": "MBBS, DA, FRCA (London)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9818422867",
+            "email": "anjeleenasgrh@gmail.com",
+            "treatment": ""
+        },
+        "66": {
+            "name": "Ankit Tyagi",
+            "degree": null,
+            "dept": "Urology",
+            "mobile": "9910911241",
+            "email": "ankittyagiucms2009@gmail.com",
+            "treatment": "Endourology, Laparoscopic Urology, Robotic Surgery, Andrology, Uro Oncology and Renal Transplant"
+        },
+        "67": {
+            "name": "Ankkita Sharma Bhandari",
+            "degree": null,
+            "dept": "Neurophysiology",
+            "mobile": "9958419388",
+            "email": "ankkita13@gmail.com",
+            "treatment": ""
+        },
+        "68": {
+            "name": "Anmol Ahuja",
+            "degree": null,
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9818675150",
+            "email": "dr.anmol14@gmail.com",
+            "treatment": "Laparoscopic, Robotic, Colorectal Oncology, Abdominal Wall Reconstruction and Cytoreductive Surgery"
+        },
+        "69": {
+            "name": "Anshu Rohatgi",
+            "degree": "MD, DNB, DM",
+            "dept": "Neurology",
+            "mobile": "9810159046",
+            "email": "rohatgianshu@yahoo.com",
+            "treatment": "Movement Disorders,"
+        },
+        "70": {
+            "name": "Anshul Gupta",
+            "degree": "",
+            "dept": "Neurosurgery",
+            "mobile": "9810045034",
+            "email": "dr_anshulg@yahoo.com",
+            "treatment": "Minimal Invasive (Endoscopic) Brain and Spine Surgery"
+        },
+        "71": {
+            "name": "Anubhav Gupta",
+            "degree": "",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9953052380",
+            "email": "dr_anubhav_plastic@hotmail.com",
+            "treatment": "Microvascular Surgery & Cosmetic Surgery"
+        },
+        "72": {
+            "name": "Anup Razdan",
+            "degree": "M.B.B.S, M.D.S",
+            "dept": "Dental Surgery",
+            "mobile": "9818263377",
+            "email": "anuprazdan@yahoo.co.in",
+            "treatment": "Myofunctional Appliances, Cleft Lip & Palate, Orthognathic Surgery & Dental Implants, Maxillofacial Surgery"
+        },
+        "73": {
+            "name": "Anup Thakur",
+            "degree": "",
+            "dept": "Neonatology",
+            "mobile": "8800565956",
+            "email": "dr.thakuranup@gmail.com",
+            "treatment": "Pediatrics, Child and Newborn Health, Vaccination, Neonatal Intensive care"
+        },
+        "74": {
+            "name": "Anupam Sachdeva",
+            "degree": "M.B.B.S., M.D., M.CH",
+            "dept": "Paediatrics",
+            "mobile": "9811043476",
+            "email": "anupamace@yahoo.co.in",
+            "treatment": "Paediatric Haematology"
+        },
+        "75": {
+            "name": "Anupma Sethi",
+            "degree": "MDS",
+            "dept": "Dental Surgery",
+            "mobile": "9810149023",
+            "email": "drvsethi@gmail.com",
+            "treatment": "Restorative Dentistry, Cosmetic, Root Canal Treatment"
+        },
+        "76": {
+            "name": "Anurag Yadav",
+            "degree": "",
+            "dept": "CT Scan & MRI",
+            "mobile": "08800836830",
+            "email": "anu_nalin@hotmail.com",
+            "treatment": ""
+        },
+        "77": {
+            "name": "Anurag Gupta",
+            "degree": "",
+            "dept": "Nephrology",
+            "mobile": "8800260446",
+            "email": "dranuragg1@yahoo.com",
+            "treatment": ""
+        },
+        "78": {
+            "name": "Apurva Srivastava",
+            "degree": null,
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9008502075",
+            "email": "drapurva.srivastava@gmail.com",
+            "treatment": "\u2022 Continuous research for newer modalities of treatment for non-reconstructable Vascular Disease and Critical limb ischemia"
+        },
+        "79": {
+            "name": "Archana Dayal Arya",
+            "degree": "DNB, Post Doctoral Fellowship in Paediatric Endocrinology (USA)",
+            "dept": "Paediatrics",
+            "mobile": "9810076845",
+            "email": "adayal35@hotmail.com",
+            "treatment": "Short stature, Pubertal disorders and Diabetes, Obesity, Thyroid Disorders"
+        },
+        "80": {
+            "name": "Archna Koul",
+            "degree": "MBBS, MD(Anaesthesiology)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9958892622",
+            "email": "archnakoul1@gmail.com",
+            "treatment": ""
+        },
+        "81": {
+            "name": "Arjun Maria",
+            "degree": null,
+            "dept": "Paediatrics",
+            "mobile": "9871881858",
+            "email": "arjunmaria@hotmail.com",
+            "treatment": "Neonatal Cholestasis, Hepatitis, Pancreatits, Autoimmune Liver disease, Metabolic Liver disease, Acute liver failure"
+        },
+        "82": {
+            "name": "Arpita Gupta",
+            "degree": null,
+            "dept": "Radiation Oncology",
+            "mobile": "9711174380",
+            "email": "arpita.bindal@gmail.com",
+            "treatment": "Head and neck cancers, Lung cancers, Gynecological cancers"
+        },
+        "83": {
+            "name": "Arti Anand",
+            "degree": "M.Phil (Psychology), PhD (Psuchology)",
+            "dept": "Psychiatry",
+            "mobile": "9871603581",
+            "email": "artianand2@yahoo.co.in",
+            "treatment": "Cognitive Behaviour Therapy (CBT), Providing CBT, psychotherapy /Counselling to variety of psychiatric cases \u2013 anxiety, depression Psychosomatoic disorder, OCD, Schizophrenia ,\r\nConducting psychotherapeutic sessions \r\n(Congnitive behavior therapy, relaxation therapy, family, therapy marital, therapy and counseling) \r\nChildren and adolescents counselling\r\nAdministration and interpretation of psychological tests"
+        },
+        "84": {
+            "name": "Arun Maheshwari",
+            "degree": "M.B.B.S, M.D.",
+            "dept": "Cardiac Anaesthesia",
+            "mobile": "9868225525",
+            "email": "",
+            "treatment": "Cardiac Anaesthesia and Cardiac Critical Care"
+        },
+        "85": {
+            "name": "Arun Gupta",
+            "degree": "",
+            "dept": "Interventional Radiology",
+            "mobile": "9350335103",
+            "email": "drarungupta2006@yahoo.co.in",
+            "treatment": ""
+        },
+        "86": {
+            "name": "Arun Mohanty",
+            "degree": "MBBS , MD(General Medicine), DM (Cardiology)",
+            "dept": "Cardiology",
+            "mobile": "9810385659",
+            "email": "arunmohanty25@hotmail.com",
+            "treatment": "Interventional Cardiology and Coronary Imaging"
+        },
+        "87": {
+            "name": "Arun Soni",
+            "degree": "M.B.B.S., D.N.B.",
+            "dept": "Neonatology",
+            "mobile": "9810634043",
+            "email": "arun00soni@yahoo.com",
+            "treatment": "Intensive Care"
+        },
+        "88": {
+            "name": "Arun Setia",
+            "degree": "BDS, FDSRCPSG (UK), FICD",
+            "dept": "Maxillo-Facial Surgery",
+            "mobile": "9810083062",
+            "email": "apsetia@hotmail.com",
+            "treatment": "Maxillofacial Surgery, Oral Surgery/ Implants, T.M.J., M.F. Prosthesis, Jaw Surgery"
+        },
+        "89": {
+            "name": "Arunav Sharma",
+            "degree": null,
+            "dept": "Paediatric Neurosurgery",
+            "mobile": "9911317979",
+            "email": "arunavsharma@gmail.com",
+            "treatment": ""
+        },
+        "90": {
+            "name": "Arup Basu",
+            "degree": "MBBS, MD (Med), MD(Chest Medicine)",
+            "dept": "Chest Medicine",
+            "mobile": "9810018087",
+            "email": "tikusultan@gmail.com",
+            "treatment": "Sarcoidesis, Pulmonary Vasculitis"
+        },
+        "91": {
+            "name": "Arvind Kumar",
+            "degree": null,
+            "dept": "Surgical Oncology",
+            "mobile": "9818826423",
+            "email": "arvindlapsurgeon@gmail.com",
+            "treatment": ""
+        },
+        "92": {
+            "name": "Asha Agarwal",
+            "degree": "B.Sc. AST (Bom)",
+            "dept": "E.N.T.",
+            "mobile": "9810161532",
+            "email": "asha_speech@yahoo.co.in",
+            "treatment": "New born screening (OAE,BERA), Cochlear Implant Specialist, Auditory Verbal Rehabilitation, Speech and Language Rehabilitation"
+        },
+        "93": {
+            "name": "Ashima Abbott Chandra",
+            "degree": "MBBS,  DNB (Opthalmology)",
+            "dept": "Ophthalmology",
+            "mobile": "9810004124",
+            "email": "chandra.ashima@gmail.com",
+            "treatment": ""
+        },
+        "94": {
+            "name": "Ashis Acharya",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "8826059392",
+            "email": "ashis_acharya@yahoo.com",
+            "treatment": "Sports Medicine"
+        },
+        "95": {
+            "name": "Ashish Dey",
+            "degree": "",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "09971007627",
+            "email": "ashishdey_78@rediffmail.com",
+            "treatment": "Laparoscopic Hernia Surgery, Colo-anal Surgery, Bariatric Surgery"
+        },
+        "96": {
+            "name": "Ashish Kumar",
+            "degree": "",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9312792573",
+            "email": "ashishk10@yahoo.com",
+            "treatment": "Non-alcoholic fatty liver disease, Hepatocellular carcinoma, Obesity, Alcoholic liver disease, Stem cells for liver disease, Portal hypertension, Liver diseases in pregnancy, Acute-on-chronic liver failure, Hepatitis B, Medical statistics and meta-analysis, Hepatology, Gastroenterology, Endoscopy"
+        },
+        "97": {
+            "name": "Ashish Goyal",
+            "degree": "M.B.B.S., M.S., M.Ch (Neurosurgery)",
+            "dept": "Spinal Surgery",
+            "mobile": "9810591199",
+            "email": "agoyal2004_@hotmail.com",
+            "treatment": "MIS Surgery, Cervical Spine"
+        },
+        "98": {
+            "name": "Ashish Kumar Jain",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "9637948610",
+            "email": "dr.ashish31.jain@gmail.com",
+            "treatment": "Complex Coronay Interventions & Angioplasty Using Advance Techniques, \r\nArrhythmia, \r\nHeart Failure, \r\nCardiomyopathy, \r\nValve Disorders, \r\nPacemaker (Icd/Crt-D)"
+        },
+        "99": {
+            "name": "Ashmita Jawa",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "7727867650",
+            "email": "ashijawa@gmail.com",
+            "treatment": ""
+        },
+        "100": {
+            "name": "Ashok Anand",
+            "degree": "B.Sc., MBBS",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9711023838",
+            "email": "kikianand@yahoo.com",
+            "treatment": ""
+        },
+        "101": {
+            "name": "Ashutosh Taneja",
+            "degree": " MBBS, MD (Anaesthesia) -igarh",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9899359333",
+            "email": "ashutoshtaneja@yahoo.co.uk",
+            "treatment": ""
+        },
+        "102": {
+            "name": "Ashwani Mehta",
+            "degree": "M.B.B.S., M.D., D.M.",
+            "dept": "Cardiology",
+            "mobile": "9811057384",
+            "email": "drashwanimehta@gmail.com",
+            "treatment": "Electronic Medical Records\r\nHeart Failure Program\r\nHeart Transplant Program \r\nPreventive Cardiology & Public Awareness Lectures"
+        },
+        "103": {
+            "name": "(Prof.) Ashwani Gupta",
+            "degree": "M.B.B.S., M.D., D.M.",
+            "dept": "Nephrology",
+            "mobile": "9811049761",
+            "email": "ashwani_gupta2002@yahoo.com",
+            "treatment": ""
+        },
+        "104": {
+            "name": "Ashwin Dewan",
+            "degree": "MDS, BDS",
+            "dept": "Dental Surgery",
+            "mobile": "9811034008",
+            "email": "dr.dewan2@gmail.com",
+            "treatment": "Prosthodontics"
+        },
+        "105": {
+            "name": "Ashwin Mallya",
+            "degree": null,
+            "dept": "Urology",
+            "mobile": "9999371382",
+            "email": "docashwinmallya@gmail.com",
+            "treatment": "1) Urologic Oncology and Robotic Surgery, Prostate Cancer, Kidney Cancer, Bladder, Testicular & Penile Cancers. 2) Endourology - RIRS, PCNL, Laser Prostate Surgeries. 3) Laparoscopic Urology. 4) Andrology"
+        },
+        "106": {
+            "name": "Ashwin Marwaha",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811076205",
+            "email": "drashwinmarwaha@gmail.com",
+            "treatment": ""
+        },
+        "107": {
+            "name": "Asish Kr. Sahoo",
+            "degree": null,
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9914259333",
+            "email": "drasishkumarsahoo@gmail.com",
+            "treatment": ""
+        },
+        "108": {
+            "name": "A.K. Lahiri",
+            "degree": "MS, DLO",
+            "dept": "E.N.T.",
+            "mobile": "9810714107",
+            "email": "lasish@yahoo.co.uk",
+            "treatment": "Otology, Head & Neck Cancer Surgery, Cochlear Implant"
+        },
+        "109": {
+            "name": "Atul Kakar",
+            "degree": "M.B.B.S., D.N.B. (Medicine), M.N.A.M.S., Post Graduate Certificate in HIV/STD Management, Short Term Training Rheumatology",
+            "dept": "Medicine",
+            "mobile": "9811110802",
+            "email": "atulkakar@hotmail.com",
+            "treatment": "Rheumatology & HIV Medicine"
+        },
+        "110": {
+            "name": "Atul Gogia",
+            "degree": "M.B.B.S., D.N.B., M.R.C.P. (UK)",
+            "dept": "Medicine",
+            "mobile": "9891003450",
+            "email": "atulgogs@rediffmail.com,atulgogia@yahoo.com",
+            "treatment": "Infectious Diseases, \r\nHIV,\r\nMDR TB,\r\nMulti systemic complex medical problems,\r\nFever of Unknown Origin,\r\nDiabetes Mellitus"
+        },
+        "111": {
+            "name": "B.G. Kotwani",
+            "degree": "M.B.B.S., M.D. (Mum.), FRCOG (London)",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9810323299",
+            "email": "",
+            "treatment": ""
+        },
+        "112": {
+            "name": "B.S. Vivek",
+            "degree": "MBBS, MD, DM (CARDIOLOGY)",
+            "dept": "Cardiology",
+            "mobile": "9910966229",
+            "email": "bsvivekdr@gmail.com",
+            "treatment": ""
+        },
+        "113": {
+            "name": "Bela Jain",
+            "degree": "BDS, MDS, FICD",
+            "dept": "Dental Surgery",
+            "mobile": "9810473322",
+            "email": "drbelajain@gmail.com",
+            "treatment": "Dental Implants"
+        },
+        "114": {
+            "name": "Bhavdeep Kaur",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9878694468",
+            "email": "bhavdeepkaur1012@gmail.com",
+            "treatment": ""
+        },
+        "115": {
+            "name": "Bhawani Shekhar",
+            "degree": null,
+            "dept": "IVF & Human Reproduction",
+            "mobile": "9013234010",
+            "email": "bhawanishekhar@gmail.com",
+            "treatment": "Infertility, IVF, Laparoscopy, Hysteroscopy"
+        },
+        "116": {
+            "name": "Bheem Singh Nanda",
+            "degree": "",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9654656509",
+            "email": "bheemnanda@gmail.com",
+            "treatment": "Hand Surgery, Microvascular Surgery, Onco Reconstruction, Aesthic Burns Surgery"
+        },
+        "117": {
+            "name": "Bhuwan Chand Panday",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9999200881",
+            "email": "bhuwancp@gmail.com",
+            "treatment": ""
+        },
+        "118": {
+            "name": "Bhuwanesh Kandpal",
+            "degree": "MBBS,  MD,  DM (Cardio) ",
+            "dept": "Cardiology",
+            "mobile": "9811883046",
+            "email": "bhuwaneshk@yahoo.co.in",
+            "treatment": "Complex Coronay Interventions & Angioplasty,  Using Advance Techniques,  Arrhythmia, Atrial Fibrillation,  Cardiomyopathy,  Valve Disorders"
+        },
+        "119": {
+            "name": "Bimla Sharma",
+            "degree": "MBBS, DGO, MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810135366",
+            "email": "bimsharma@rediffmail.com",
+            "treatment": ""
+        },
+        "120": {
+            "name": "Bimlesh Thakur",
+            "degree": null,
+            "dept": "Surgical Oncology",
+            "mobile": "8700625500",
+            "email": "bimlesh7@gmail.com",
+            "treatment": "Head and Neck, Gastrointestinal and HPB Cancers, Breast and Gynecological Cancers, Bone, Soft Tissue and Skin Cancers, Peritoneal Cancers, Laparoscopic Cancer Surgeries and Oncoplastic Surgeries"
+        },
+        "121": {
+            "name": "Bindu Dewan",
+            "degree": "MBBS, MD",
+            "dept": "Dermatology",
+            "mobile": "9810028780",
+            "email": "bindudoc@yahoo.com",
+            "treatment": ""
+        },
+        "122": {
+            "name": "Brajesh Nandan",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "9958575334",
+            "email": "brajesh.nandan@yahoo.com",
+            "treatment": "MUSCULOSKELETAL ONCOLOGY & LIMB SALVAGE AND RECONSTITUTION SURGERY IN BONE AND SOFT TISSUE Tumour"
+        },
+        "123": {
+            "name": "B.B. Agarwal",
+            "degree": "M.B.B.S., M.S.(Gold Medalist), Dip. in Yoga, (Gold Medalist), F.I.M.S.A.",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9810124256",
+            "email": "endosurgeon@gmail.com",
+            "treatment": "International innovator of gallbladder. Laparoscopic surgery for groin hernia and abdominal hernia,\r\nRobotic and laparoscopic surgery for pancreatic disease and bowel cancers, Stapler surgery for\r\nlarge piles and prolapse (STARR), and Mini laparoscopic surgery. Internationally cited foundation\r\nguideline work on safe laparoscopic surgery."
+        },
+        "124": {
+            "name": "C.S. Ramachandran",
+            "degree": "MBBS, MS, DNB, FICS",
+            "dept": "Family Medicine",
+            "mobile": "9811047375",
+            "email": "surgicalrama2000@usa.net",
+            "treatment": ""
+        },
+        "125": {
+            "name": "Chand Wattal",
+            "degree": "B.Sc., MBBS, MD",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9810502899",
+            "email": "chandwattal@gmail.com",
+            "treatment": "Microbial Immunology and Antibiotic Therapy"
+        },
+        "126": {
+            "name": "Chand Sahai",
+            "degree": "DA, MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810149733",
+            "email": "sahai_c@yahoo.com",
+            "treatment": ""
+        },
+        "127": {
+            "name": "Chandra Mansukhani",
+            "degree": "MBBS, MS (Obst. & Gynae.)",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9810134598",
+            "email": "manchandra12@gmail.com",
+            "treatment": "Endoscopy, Robotic surgery, Adolescence"
+        },
+        "128": {
+            "name": "C.S. Agrawal",
+            "degree": "MBBS, MD, DM",
+            "dept": "Neurology",
+            "mobile": "9871897777",
+            "email": "csyvaa@gmail.com",
+            "treatment": ""
+        },
+        "129": {
+            "name": "Daksh Sethi",
+            "degree": null,
+            "dept": "Minimal Access & Bariatric Surgery Centre",
+            "mobile": "9873144244",
+            "email": "dakshsethi279@gmail.com",
+            "treatment": "Abdominal Wall Reconstruction And Bariatric Surgery"
+        },
+        "130": {
+            "name": "Debashis Dhar",
+            "degree": "MBBS - 1987, MD -1995,  DNB - 1995",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9811231261",
+            "email": "ddhar2001@yahoo.co.in",
+            "treatment": ""
+        },
+        "131": {
+            "name": "Debasis Dutta",
+            "degree": "",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9810054528",
+            "email": "drdebasisdutta@gmail.com,debasis_dutta16@yahoo.com",
+            "treatment": ""
+        },
+        "132": {
+            "name": "Deeksha Rastogi",
+            "degree": "",
+            "dept": "Ultrasound",
+            "mobile": "9958544665",
+            "email": "deekshaguptarastogi@gmail.com",
+            "treatment": ""
+        },
+        "133": {
+            "name": "Deepak Gupta",
+            "degree": "",
+            "dept": "Paediatrics",
+            "mobile": "9810046115",
+            "email": "deegupta_2000@yahoo.com",
+            "treatment": "ADHD, Autism, Childhood Depression, psychological trauma in children and adolescents, School refusal, child and parent counseling"
+        },
+        "134": {
+            "name": "Deepak Agrawal",
+            "degree": "B.D.S., M.D.S",
+            "dept": "Dental Surgery",
+            "mobile": "9810023787",
+            "email": "deepak.ketki@gmail.com",
+            "treatment": ""
+        },
+        "135": {
+            "name": "Deepak Chawla",
+            "degree": "MD",
+            "dept": "Ultrasound",
+            "mobile": "9810075286",
+            "email": "drchawla99@yahoo.com",
+            "treatment": ""
+        },
+        "136": {
+            "name": "Deepanjali Pant",
+            "degree": "M.B.B.S., M.D.(Anaesthesia)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9818271871",
+            "email": "deepanjalipant@gmail.com",
+            "treatment": ""
+        },
+        "137": {
+            "name": "Deepika Gupta",
+            "degree": null,
+            "dept": "Surgical Oncology",
+            "mobile": "9871674818",
+            "email": "drdeepikacancersurgeon@gmail.com",
+            "treatment": "Ovarian cancer cytoreduction & HIPEC, Breast conservation surgery & reconstruction, Minimally invasive Oncology - Gynecological / Gastrointestinal cancers, Hereditary cancers"
+        },
+        "138": {
+            "name": "Deepika Gupta",
+            "degree": null,
+            "dept": "Clinical Haematology",
+            "mobile": "9797581684",
+            "email": "drdipikagupta22@gmail.com",
+            "treatment": "1.Benign Hematology: \r\n  Thalassemia, Autoimmune Haemolytic Anemia, Sickle Cell Anemia, Severe Aplastic Anemia, PNH, ITP, APLA, Haemophilias And Bleeding Disorders, Thrombosis ( DVT, Pulmonary Thromboembolism) . HITT, Thrombotic Thrombocytopenia Purpura. \r\n 2.Malignant Hematology: \r\n Acute Myeloid Leukemia, Acute Lymphoblastic Leukemia, Hodgkin Lymphomas And Non Hodgkin Lymphoma, Multiple Myeloma, Plasma Cell Leukemia\r\n \r\n 3. Bone Marrow Transplant: Autologous Bone Marrow Transplant, Matched Sibling Allogenic Transplant, Haploidentical Transplants"
+        },
+        "139": {
+            "name": "Deepinder Chaudhary",
+            "degree": "",
+            "dept": "Joint Replacement Surgery",
+            "mobile": "09971733228",
+            "email": "deepinder_chaudhary@yahoo.co.in",
+            "treatment": "Joint Replacement And Joint Reconstruction Surgery"
+        },
+        "140": {
+            "name": "Devika Duggal",
+            "degree": null,
+            "dept": "Dental Surgery",
+            "mobile": "9717831887",
+            "email": "",
+            "treatment": ""
+        },
+        "141": {
+            "name": "Devinder Rai",
+            "degree": "M.B.B.S., M.S.",
+            "dept": "E.N.T.",
+            "mobile": "9811009393, 9873906161,84",
+            "email": "draient22@gmail.com",
+            "treatment": "Endoscopic Image Guide and Nasal and Sinus Surgery, Voice Disorders, Snoring Disorders, Coblation Surgery, Robotic Surgery for Sleep Apnea, Baloon Synuplasty"
+        },
+        "142": {
+            "name": "Dharmender Malik",
+            "degree": null,
+            "dept": "Nuclear Medicine & Bone Densitometry",
+            "mobile": "7009294759",
+            "email": "dharmendermalik0123@gmail.com",
+            "treatment": ""
+        },
+        "143": {
+            "name": "Dhiren Gupta",
+            "degree": " M.B.B.S., M.D. (Pediatrics)",
+            "dept": "Paediatrics",
+            "mobile": "9910455733",
+            "email": "dhireengupta@yahoo.com",
+            "treatment": "Paediatric Intensive Care"
+        },
+        "144": {
+            "name": "D.K. Dhiraj",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "9811148429, 9718713239",
+            "email": "drdkdhiraj@hotmail.com",
+            "treatment": "Complex Trauma Surgery, Complex/Primary Hip & Knee replacement Surgery, Revision Hip & Knee Replacement Surgery"
+        },
+        "145": {
+            "name": "Dhruv Agarwal",
+            "degree": null,
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9654398687",
+            "email": "drdhruvagarwal@gmail.com",
+            "treatment": ""
+        },
+        "146": {
+            "name": "Dinesh Kaul",
+            "degree": "MBBS, DNB (Paediatrics)",
+            "dept": "Paediatrics",
+            "mobile": "9811211205",
+            "email": "docdineshkaul@gmail.com",
+            "treatment": "Paediatric infectious diseases &  HIV, Immunology"
+        },
+        "147": {
+            "name": "Elvin Daniel",
+            "degree": null,
+            "dept": "Cardiac Anaesthesia",
+            "mobile": "9639639633",
+            "email": "igjascbms@bxjnm",
+            "treatment": ""
+        },
+        "148": {
+            "name": "Ethel Shangne Behlo",
+            "degree": null,
+            "dept": "Nuclear Medicine & Bone Densitometry",
+            "mobile": "9810763536",
+            "email": "ethelbehlo@gmail.com",
+            "treatment": ""
+        },
+        "149": {
+            "name": "Gaggan Chadha",
+            "degree": "M.B.B.S., DNB",
+            "dept": "Orthopaedics",
+            "mobile": "9811079545",
+            "email": "",
+            "treatment": "Joint Replacements"
+        },
+        "150": {
+            "name": "Ganesh Shivnani",
+            "degree": "MBBS, MS,MCh",
+            "dept": "Cardiac Surgery",
+            "mobile": "9910298665",
+            "email": "ganeshshivnani@yahoo.com",
+            "treatment": "Routine and Complex Coronary Artery Bypass Surgery \r\nMinimally Invasive Heart Surgery \r\nKey Hole Surgeries \r\nRoutine and Complex Valve Procedures"
+        },
+        "151": {
+            "name": "Geeta Mediratta",
+            "degree": "MBBS, MD (Obs & Gynae)",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9810126985",
+            "email": "gmediratta@yahoo.com",
+            "treatment": "Urogynecology (Obst. & Gynae.)"
+        },
+        "152": {
+            "name": "H.N. Agarwal",
+            "degree": "M.B.B.S., M.S. (Surgery), M.Ch (Neurosurgery)",
+            "dept": "Neurosurgery",
+            "mobile": "9811067568",
+            "email": "hnagarwal44@hotmail.com",
+            "treatment": "Neuro-oncology (Brain and Spinal Tumor Surgery)"
+        },
+        "153": {
+            "name": "Harbansh Lal",
+            "degree": "MS",
+            "dept": "Ophthalmology",
+            "mobile": "9810239206",
+            "email": "harbansheye@gmail.com",
+            "treatment": "Eye Surgery, Lasers"
+        },
+        "154": {
+            "name": "Harsh Mahajan",
+            "degree": "MD",
+            "dept": "Nuclear Medicine & Bone Densitometry",
+            "mobile": "9811410077",
+            "email": "mahajanimagingcentre@yahoo.co.in",
+            "treatment": ""
+        },
+        "155": {
+            "name": "Harsha Khullar",
+            "degree": "MBBS,  MD",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9313088831",
+            "email": "harsha_khullar@yahoo.com",
+            "treatment": "Oncology"
+        },
+        "156": {
+            "name": "H. Jauhari",
+            "degree": "M.B.B.S., M.S., F.I.C.S., F.R.C.S., F.A.I.S",
+            "dept": "Renal Transplantation",
+            "mobile": "9811082989",
+            "email": "drhjauhari@yahoo.com",
+            "treatment": "Kidney Transplant Surgery/Urology"
+        },
+        "157": {
+            "name": "Harshita Vig",
+            "degree": null,
+            "dept": "Dental Surgery",
+            "mobile": "9971995103",
+            "email": "drharshitavig@gmail.com",
+            "treatment": "Oral and Maxillofacial Surgical Procedures, Minor Oral Surgery, Oral Implantology and Facial Aesthetic Medicine"
+        },
+        "158": {
+            "name": "Hirak Pahari",
+            "degree": null,
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9330339744",
+            "email": "hirak.pahari@gmail.com",
+            "treatment": ""
+        },
+        "159": {
+            "name": "Huma Ali",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9740997714",
+            "email": "huma.ali.17@gmail.com",
+            "treatment": ""
+        },
+        "160": {
+            "name": "Ikeda Lal",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "9652446462",
+            "email": "ikeda.lal@gmail.com",
+            "treatment": ""
+        },
+        "161": {
+            "name": "ILA SHARMA",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9999963354",
+            "email": "ilasharma268@yahoo.com",
+            "treatment": ""
+        },
+        "162": {
+            "name": "Imran Noorani",
+            "degree": null,
+            "dept": "Paediatrics",
+            "mobile": "9871101186",
+            "email": "imrannoorani.sgrh@gmail.com",
+            "treatment": "Autism, Dyslexia, ADHD, Behavioural, Emotional & Developmental Disorders, Child & Adolescent Psychology"
+        },
+        "163": {
+            "name": "Ish Anand",
+            "degree": "MBBS, DTCD, MD(Internal Medicine), DM (Neurology), FCNE (USA)",
+            "dept": "Neurology",
+            "mobile": "9810033099",
+            "email": "ishneuro@yahoo.com",
+            "treatment": "Epilepsy, Stroke, Headache, Spodylosis, Low Backache, Nerve and Muscle"
+        },
+        "164": {
+            "name": "J.M. Wadhawan",
+            "degree": "MD, PhD, FIPS, AFISAM, ExFAPA (USA) FWHO",
+            "dept": "Psychiatry",
+            "mobile": "9811033032",
+            "email": "drjmwadhawan@hotmail.com",
+            "treatment": ""
+        },
+        "165": {
+            "name": "(Col.) Jasjit Singh",
+            "degree": null,
+            "dept": "Clinical Haematology",
+            "mobile": "8130629806",
+            "email": "jjsingh64@yahoo.co.in",
+            "treatment": "Treating All Blood Diseases, All Blood Cancers & Blood and Marrow Transplantation"
+        },
+        "166": {
+            "name": "Jasmine Kumar",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9540553111",
+            "email": "1972-12-06",
+            "treatment": ""
+        },
+        "167": {
+            "name": "Jaswinder Kaur Oberoi",
+            "degree": "MBBS, MD (Microbiology)",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9811760093",
+            "email": "oberoi_jaswinder@yahoo.co.in",
+            "treatment": ""
+        },
+        "168": {
+            "name": "Jatin Verma",
+            "degree": null,
+            "dept": "E.N.T.",
+            "mobile": "9179111297",
+            "email": "drjatinverma@gmail.com",
+            "treatment": ""
+        },
+        "169": {
+            "name": "Jay Relan",
+            "degree": null,
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9868700886",
+            "email": "JR2321990@gmail.com",
+            "treatment": "Complex congenital heart defects, Interventional Pediatric Cardiology, Fetal & Pediatric Arrhythmias, Pediatric Cardiovascular Imaging"
+        },
+        "170": {
+            "name": "(Col) Jyoti Kotwal",
+            "degree": null,
+            "dept": "Haematology and Clinical Pathology",
+            "mobile": "8826313337",
+            "email": "drjyotikotwal@gmail.com",
+            "treatment": ""
+        },
+        "171": {
+            "name": "Jyotsna Verma",
+            "degree": "Ph.D (Medical Biochemistry)",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9891112250",
+            "email": "j4verma@yahoo.com, vermaj2010@gmail.com",
+            "treatment": ""
+        },
+        "172": {
+            "name": "K.D. Gupta",
+            "degree": "DLO, FRCS, FICS",
+            "dept": "E.N.T.",
+            "mobile": "9811117636",
+            "email": "",
+            "treatment": ""
+        },
+        "173": {
+            "name": "Kamal Puri",
+            "degree": "BHMS",
+            "dept": "Homeopathy",
+            "mobile": "9811137472",
+            "email": "k_puri@hotmail.com, kpuri1@gmail.com",
+            "treatment": "Paediatric diseases"
+        },
+        "174": {
+            "name": "K.J. Prasad",
+            "degree": "PhD",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9971090385",
+            "email": "drkjprasad@gmail.com",
+            "treatment": ""
+        },
+        "175": {
+            "name": "K.K. Saxena",
+            "degree": "MD",
+            "dept": "Radiology",
+            "mobile": "9999722168",
+            "email": "dr_kksaxena@yahoo.com",
+            "treatment": ""
+        },
+        "176": {
+            "name": "Kamini Khillan",
+            "degree": "M.B.B.S., M.D. Pathology",
+            "dept": "Blood Transfusion Medicine",
+            "mobile": "9818248460",
+            "email": "k_khillan@yahoo.com",
+            "treatment": ""
+        },
+        "177": {
+            "name": "Kamlender Singh",
+            "degree": "MBBS, MD",
+            "dept": "Dermatology",
+            "mobile": "-",
+            "email": "kamlender@yahoo.com",
+            "treatment": "Skin Laser surgery and hair removal, Acne, Vitiligo, Psoiiasis"
+        },
+        "178": {
+            "name": "Kanav Anand",
+            "degree": "",
+            "dept": "Paediatrics",
+            "mobile": "9818664448",
+            "email": "dr_kanav_anand@yahoo.co.uk",
+            "treatment": "Paediatric Nephrology, Paediatric Dialysis (Peritoneal Dialysis, Hemodialysis, CRRT)"
+        },
+        "179": {
+            "name": "Kanika Jain",
+            "degree": "M.B.B.S  - 1992., D.G.O. - 1996, DNB - 1999",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811022255",
+            "email": "dr.kanika@gmail.com",
+            "treatment": "Gynae Endoscopy, Gynae Oncology"
+        },
+        "180": {
+            "name": "K. Gujral",
+            "degree": "M.B.B.S., D.G.O, M.S., F.I.C.O.G.",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811017635",
+            "email": "kgg_in@yahoo.com",
+            "treatment": "High Risk Pregnancy"
+        },
+        "181": {
+            "name": "Karan Rai",
+            "degree": null,
+            "dept": "Dental Surgery",
+            "mobile": "9599757400",
+            "email": "krpedent@outlook.com",
+            "treatment": "1. Dental Care for Children and Adolescents"
+        },
+        "182": {
+            "name": "K.L. Kalra",
+            "degree": "MS (Orthopedics)",
+            "dept": "Spinal Surgery",
+            "mobile": "9811071243",
+            "email": "kashkalra55@hotmail.com",
+            "treatment": "Spine Surgery, Deformity in Spine and Kyphoplasty"
+        },
+        "183": {
+            "name": "Kavita Tyagi",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "8373987601",
+            "email": "drkavitatyagi@gmail.com",
+            "treatment": "Complex Coronay Interventions & Angioplasty\r\nUsing Advance Techniques\r\nArrhythmia\r\nAtrial Fibrillation\r\nCardiomyopathy\r\nValve Disorders"
+        },
+        "184": {
+            "name": "Kishan S Rawat",
+            "degree": "",
+            "dept": "CT Scan & MRI",
+            "mobile": "9871288666",
+            "email": "ksrawat14@rediffmail.com",
+            "treatment": ""
+        },
+        "185": {
+            "name": "K.K. Narani",
+            "degree": "MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810465134",
+            "email": "drkknarani@hotmail.com",
+            "treatment": ""
+        },
+        "186": {
+            "name": "Kriti Jain",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "+91 9999077784",
+            "email": "",
+            "treatment": ""
+        },
+        "187": {
+            "name": "Kunal Chawla",
+            "degree": "",
+            "dept": "Medicine",
+            "mobile": "9717188444",
+            "email": "doc.kunalchawla@gmail.com",
+            "treatment": "Metabolic problems - Diabetes, obesity, high cholesterol, Polycystic ovary disease and their associated complications, Thyroid disorders, Pituitary diseases, and Other hormonal issues."
+        },
+        "188": {
+            "name": "Kushal",
+            "degree": null,
+            "dept": "Cardiac Surgery",
+            "mobile": "9810688410",
+            "email": "kushalmadan@gmail.com",
+            "treatment": "Cardiac Rehabilitation"
+        },
+        "189": {
+            "name": "Kusum Verma",
+            "degree": "MBBS, MD (Pathology), MIAC, FAMS",
+            "dept": "Pathology",
+            "mobile": "9810016570",
+            "email": "kusumv1943@gmail.com",
+            "treatment": ""
+        },
+        "190": {
+            "name": "Lalit Choudhary",
+            "degree": "M.B.B.S., M.S. (Gen. Suegery), M.Ch (Plastic Surgery)",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9711143897, 9312094136",
+            "email": "drlalitchoudhary@gmail.com",
+            "treatment": "Cosmetic and Endoscopic Plastic Surgery, Liposuction and Body contouring"
+        },
+        "191": {
+            "name": "Lalit Duggal",
+            "degree": "MD, FRCP",
+            "dept": "Rheumatology & Clinical Immunology",
+            "mobile": "9810122468",
+            "email": "lduggal@gmail.com",
+            "treatment": "Rheumatology: \r\n\u2022 Spondyloarthritis \r\n\u2022 Gout\r\n\u2022 IgG4 Related Disease\r\n\u2022 HIV & AIDS"
+        },
+        "192": {
+            "name": "Latika Bhalla",
+            "degree": "MD Paediatrics",
+            "dept": "Paediatrics",
+            "mobile": "9811211320",
+            "email": "bhallaak@yahoo.com",
+            "treatment": ""
+        },
+        "193": {
+            "name": "Laxmi Khanna",
+            "degree": null,
+            "dept": "Neurophysiology",
+            "mobile": "9873558121",
+            "email": "laxmikhanna@hotmail.com",
+            "treatment": ""
+        },
+        "194": {
+            "name": "Laxmikant R. Tomar",
+            "degree": null,
+            "dept": "Neurology",
+            "mobile": "9650082899",
+            "email": "drlaxmikantucms@yahoo.com",
+            "treatment": "Movement Disorder"
+        },
+        "195": {
+            "name": "M. Wali",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "9811069254",
+            "email": "walim4@gmail.com",
+            "treatment": ""
+        },
+        "196": {
+            "name": "M. Gourie Devi",
+            "degree": "MBBS, MD(Med), DM(Neuro), DSc (Hons)",
+            "dept": "Neurophysiology",
+            "mobile": "9871007544",
+            "email": "mgouriedevi@gmail.com",
+            "treatment": ""
+        },
+        "197": {
+            "name": "Madhavi Chandra",
+            "degree": "",
+            "dept": "Radiology",
+            "mobile": "9899227799",
+            "email": " ",
+            "treatment": ""
+        },
+        "198": {
+            "name": "Mahesh Mangal",
+            "degree": "M.B.B.S., M.S. (General Surgery), M.Ch (Plastic Surgery)",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9811049399",
+            "email": "mc_mangal@hotmail.com",
+            "treatment": "Hand & Micro Surgery and Aesthetic Surgery"
+        },
+        "199": {
+            "name": "Mahima Singh",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9873720910",
+            "email": "mails4mahima@gmail.com",
+            "treatment": ""
+        },
+        "200": {
+            "name": "Mahindra Singh Baansal",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "09313582531",
+            "email": "mahindrabaansal@yahoo.co.in",
+            "treatment": "Organ Transplant Anaesthesia, Pain Management"
+        },
+        "201": {
+            "name": "Mala Srivastava",
+            "degree": "MBBS, DGO, DNB (Gynae. & Obst.)",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811228336",
+            "email": "malasrivastava2001@yahoo.co.in",
+            "treatment": "Gynaecological oncology /endoscopic surgeries"
+        },
+        "202": {
+            "name": "Mamta Kankra",
+            "degree": "Ph.D in Medical Biochemistry",
+            "dept": "Biochemistry",
+            "mobile": "9811514406",
+            "email": "kankramamta@gmail.com",
+            "treatment": ""
+        },
+        "203": {
+            "name": "(Prof.) Mamta Dagar",
+            "degree": "MBBS, MD(Obst. & Gynae.)",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811437782",
+            "email": "mamtadagar2004@yahoo.co.in<br/>drmamtadagar@gmail.com",
+            "treatment": "Preventive Oncology, Gynae Endsocopy & Robotic Surgery, High Risk Pregnancy"
+        },
+        "204": {
+            "name": "Manas Kalra",
+            "degree": null,
+            "dept": "Paediatrics",
+            "mobile": "9958255228",
+            "email": "manaskalra27@gmail.com",
+            "treatment": "Blood Cancers (Leukemia- All, AMl, CMl), Lymphoma (Hodgkin And Non Hodgkin), Neuroblastoma, Wilms Tumor, Itp, Aplastic Anemia, Anemia Of Unknown Cause, Bleeding Disorders, Hemolytic Anemia, Fever Of Unknown Origin (Puo), Bone Tumors, Retinoblastoma, Sarcoma, Stem Cell Transplant, Sickle Cell Anemia, Hemophilia, Thrombosis, Lch, Fanconi Anemia And Other Marrow Failure, Brain Tumors, Immunodeficiency"
+        },
+        "205": {
+            "name": "Mandhir Kumar",
+            "degree": "M.B.B.S, M.D., D.M. (Gastro)",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9811214449",
+            "email": "mandhirkr@yahoo.co.in",
+            "treatment": "Liver diseases, Gastroenterology"
+        },
+        "206": {
+            "name": "Manish Malik",
+            "degree": "M.B.B.S., M.D., D.N.B., ",
+            "dept": "Nephrology",
+            "mobile": "9810109250",
+            "email": "navyamanish@yahoo.com",
+            "treatment": ""
+        },
+        "207": {
+            "name": "Manish Chugh",
+            "degree": "",
+            "dept": "Interventional Neuroradiology",
+            "mobile": "9810983027",
+            "email": "drchugh02@yahoo.co.in",
+            "treatment": ""
+        },
+        "208": {
+            "name": "Manish Dhawan",
+            "degree": "MBBS, DNB(Orth)",
+            "dept": "Orthopaedics",
+            "mobile": "+919811128288",
+            "email": "drmanishdhawan@gmail.com",
+            "treatment": "Trauma, Ilizarov Fixation for Limb Reconstruction, Limb Lengthening and Deformity Correction and Limb Lengthening. Use of Computerised Robotic Hexapod for deformity correction"
+        },
+        "209": {
+            "name": "Manish Gupta",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811688584",
+            "email": "guptman20002001@yahoo.co.in",
+            "treatment": ""
+        },
+        "210": {
+            "name": "Manish Munjal",
+            "degree": "M.B.B.S, M.S. (ENT), D.N.B.",
+            "dept": "E.N.T.",
+            "mobile": "9971149996",
+            "email": "may2manish@gmail.com",
+            "treatment": "Voice and Swallowing Disorders"
+        },
+        "211": {
+            "name": "Manish Kumar Gupta",
+            "degree": "",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9811671157",
+            "email": "drmanishgupta2002@yahoo.com",
+            "treatment": "Laparoscopic & Minimal Access Surgery"
+        },
+        "212": {
+            "name": "Manish Kohli",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "09810518113",
+            "email": "drmanishkohli@yahoo.co.in",
+            "treatment": ""
+        },
+        "213": {
+            "name": "Manish Kr. Sharma",
+            "degree": "",
+            "dept": "Cardiology",
+            "mobile": "9716871422",
+            "email": "doctormanishksharma@gmail.com",
+            "treatment": "Complex Coronay Interventions & Angioplasty,  Using Advance Techniques,  Arrhythmia,  Atrial Fibrillation,  Cardiomyopathy,  Valve Disorders,  Pacemaker & Icd Implantation"
+        },
+        "214": {
+            "name": "Manjari Agarwal",
+            "degree": "",
+            "dept": "Paediatrics",
+            "mobile": "9910277292",
+            "email": "drmanjari@sify.com",
+            "treatment": ""
+        },
+        "215": {
+            "name": "Manoj Modi",
+            "degree": "",
+            "dept": "Neonatology",
+            "mobile": "9873266331",
+            "email": "drmanojmodi@gmail.com",
+            "treatment": ""
+        },
+        "216": {
+            "name": "Manu Gupta",
+            "degree": "M.B.B.S., M.S. (Surgery), D.N.B. (Surgery), MCh (Urology)",
+            "dept": "Urology",
+            "mobile": "9871900299",
+            "email": "docmanu@rediffmail.com",
+            "treatment": "Male Infertility \r\nErectile Dysfunction \r\nNeurogenic Bladder\r\nRobotic Urology \r\nKidney Stones\r\nProstate"
+        },
+        "217": {
+            "name": "MD Ishtiyaque Hussain",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9911972647",
+            "email": "ishtiyak5857@gmail.com",
+            "treatment": "USG Guided Regional Anesthesia, Liver Transplant Anesthesia"
+        },
+        "218": {
+            "name": "Meena Lall",
+            "degree": "PhD (Genetics)",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9899888966",
+            "email": "lallmeena@gmail.com",
+            "treatment": ""
+        },
+        "219": {
+            "name": "Mithilesh Kumar",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9891069190",
+            "email": "drmkmishra@rediffmail.com",
+            "treatment": ""
+        },
+        "220": {
+            "name": "M. Shahid",
+            "degree": "BHMS",
+            "dept": "Homeopathy",
+            "mobile": "9810148855",
+            "email": "dr_shahid67@hotmail.com",
+            "treatment": "Skin and Respiratory problems"
+        },
+        "221": {
+            "name": "M. Kochhar",
+            "degree": "FRCOG, FRCSE, DGO, FIMSA",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9810018277",
+            "email": "drmkochhar@yahoo.com",
+            "treatment": "Female infertility & IVF, Laparoscopy, Gynaecology"
+        },
+        "222": {
+            "name": "M.K. Dua",
+            "degree": "DHMS",
+            "dept": "Homeopathy",
+            "mobile": "9811135369",
+            "email": "mkdua10@gmail.com",
+            "treatment": "Respiratory Allergies, Orthopaedic , Depression and Anxiety"
+        },
+        "223": {
+            "name": "Monika Jain",
+            "degree": "Ph.D (Biomedical Sciences)",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9899199587",
+            "email": "monikajainsgrh@yahoo.co.in",
+            "treatment": ""
+        },
+        "224": {
+            "name": "Mridul Agarwal",
+            "degree": "",
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9873850421",
+            "email": "drmirdul@hotmail.com",
+            "treatment": "Fetal Echocardiography, Pediatric, and Neonatal Echocardiography, Pediatric, Neonatal Cardiac Intervention, ASD, PDA, and VSD Device Closures, Balloon Valvuloplasty, Coarctation Ballooning and Stenting, and Peripheral Stenting."
+        },
+        "225": {
+            "name": "Mrinal Pahwa",
+            "degree": null,
+            "dept": "Renal Transplantation",
+            "mobile": "9811588287",
+            "email": "drmrinalpahwa@gmail.com",
+            "treatment": "Renal Transplant/Robotics/Laser surgery/Neurourology"
+        },
+        "226": {
+            "name": "Ms. Parul Takkar",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "+91 9818957773",
+            "email": "",
+            "treatment": ""
+        },
+        "227": {
+            "name": "Mukund Khetan",
+            "degree": "",
+            "dept": "Minimal Access & Bariatric Surgery Centre",
+            "mobile": "9810580679",
+            "email": "khetan.mukund@gmail.com",
+            "treatment": ""
+        },
+        "228": {
+            "name": "Munish K. Sachdeva",
+            "degree": "MBBS, MD, DNB",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9810336941",
+            "email": "munish.sachdeva@yahoo.com",
+            "treatment": ""
+        },
+        "229": {
+            "name": "N.K. Ganguly",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "230": {
+            "name": "Nandita Dimri Gupta",
+            "degree": "MD (Obst. & Gynae.)",
+            "dept": "Fetal Medicine",
+            "mobile": "09891980051",
+            "email": "dimnan@yahoo.com",
+            "treatment": "Fetal Medicine Counseling, Prenatal Sonography, Prenatal Interventions as  Intrauterine Transfusion, Multifetal Reduction, Amniocentesis, Chorionic Villus Sampling, Cordocentesis, Thoracoamniotic Shunt Placement"
+        },
+        "231": {
+            "name": "Naresh Dua",
+            "degree": " ",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9313097996, 8802181909",
+            "email": "ndua14@yahoo.com",
+            "treatment": "Pain Management And Palliative Care"
+        },
+        "232": {
+            "name": "Naresh Kumar Bansal",
+            "degree": "",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9310246832",
+            "email": "drnbansal@ymail.com",
+            "treatment": "Hepatology, Endoscopy, ERCP, Liver Transplantation"
+        },
+        "233": {
+            "name": "Nau Singh",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "9911505798",
+            "email": "nausingh_simple@rediffmail.com",
+            "treatment": ""
+        },
+        "234": {
+            "name": "Neelam Kler",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Neonatology",
+            "mobile": "9811047391",
+            "email": "drneelamkler@gmail.com",
+            "treatment": ""
+        },
+        "235": {
+            "name": "Neeraj Manchanda",
+            "degree": " ",
+            "dept": "Ophthalmology",
+            "mobile": "9811113404",
+            "email": "neerajmanchanda@yahoo.com",
+            "treatment": ""
+        },
+        "236": {
+            "name": "Neeraj Goel",
+            "degree": "",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9811062032",
+            "email": "drneerajgoel@hotmail.com",
+            "treatment": ""
+        },
+        "237": {
+            "name": "Neeraj Jain (Chest Medicine)",
+            "degree": "MBBS, DTCD, MD (Med)",
+            "dept": "Chest Medicine",
+            "mobile": "9811010883",
+            "email": "jainneeraj@hotmail.com",
+            "treatment": "Computers and equipments"
+        },
+        "238": {
+            "name": "Neeraj Gupta",
+            "degree": null,
+            "dept": "Paediatrics",
+            "mobile": "9871070375",
+            "email": "drneeraj1979@gmail.com",
+            "treatment": "Pediatric Intensivist & Allergy Specialist"
+        },
+        "239": {
+            "name": "Neeraj Aggarwal",
+            "degree": "",
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9818991620",
+            "email": "drneeraj_12@yahoo.co.in",
+            "treatment": ""
+        },
+        "240": {
+            "name": "Neeraj Jain",
+            "degree": "M.B.B.S. - 1990, D.N.B.  - (internal Medicine) - 2001",
+            "dept": "Rheumatology & Clinical Immunology",
+            "mobile": "9810130150",
+            "email": "jointcaredrneeraj@gmail.com",
+            "treatment": "Rheumatology- Rheumatoid Arthritis, Ankylosing Spondylitis, Psoriatic Arthritis, Osteoporosis Osteoarthritis, Reactive Arthritis, Soft Tissue Rheumatism."
+        },
+        "241": {
+            "name": "Neeraj Dhamija",
+            "degree": null,
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9811377332",
+            "email": "neerajdhamija@icloud.com",
+            "treatment": "Minimally Invasive (Laparoscopic & Robotic) Gastrointestinal & Hpb Surgery, Colo-Rectal Surgery"
+        },
+        "242": {
+            "name": "Neeti Tiwari",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9899470850",
+            "email": "drneetitiwari@gmail.com",
+            "treatment": "Infertility, IVF & Recurrent Pregnancy Loss"
+        },
+        "243": {
+            "name": "Neetu Jain",
+            "degree": "MBBS, MD(Anaesthesia), DNB",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9871110160",
+            "email": "drneetujain@yahoo.com",
+            "treatment": ""
+        },
+        "244": {
+            "name": "Nidhish Sharma",
+            "degree": "",
+            "dept": "Fetal Medicine",
+            "mobile": "09871397304",
+            "email": "nidhishsharma@yahoo.com",
+            "treatment": ""
+        },
+        "245": {
+            "name": "Nikhil Jhunjhunwala",
+            "degree": null,
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9013341025",
+            "email": "nikhil.jhunjhunwala@sgrh.com",
+            "treatment": "Hand Surgery, Congenital Hand Surgery, Wrist Surgery, Brachial Plexus And Peripheral Nerve Surgery, Micro vascular Reconstructive Hand And Foot Surgery"
+        },
+        "246": {
+            "name": "Nikhil Chaudhari",
+            "degree": null,
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "7709921406",
+            "email": "nikhilchaudhary36@gmail.com",
+            "treatment": ""
+        },
+        "247": {
+            "name": "Nikhil Sharma",
+            "degree": null,
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9909906268",
+            "email": "incisivenikhil@gmail.com",
+            "treatment": "Scientific Research"
+        },
+        "248": {
+            "name": "Nipun Rana",
+            "degree": null,
+            "dept": "Joint Replacement Surgery",
+            "mobile": "9999400199",
+            "email": "nipunrana@gmail.com",
+            "treatment": "Joint Replacement & Reconstruction surgery (including complex intra-articular trauma & arthroscopy) - Foot & Ankle Surgery"
+        },
+        "249": {
+            "name": "Niraj Tyagi",
+            "degree": "M.B.B.S.",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9810427121",
+            "email": "niraj10dr@yahoo.co.in",
+            "treatment": ""
+        },
+        "250": {
+            "name": "Nishant Wadhwa",
+            "degree": "",
+            "dept": "Paediatrics",
+            "mobile": "9873345050",
+            "email": "docnish@gmail.com",
+            "treatment": "Pediatric Gastroenterology, Hepatology and Liver Transplantation"
+        },
+        "251": {
+            "name": "Nitin Sethi",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9717494498",
+            "email": "nitinsethi77@yahoo.co.in",
+            "treatment": ""
+        },
+        "252": {
+            "name": "Nitin Aggarwal",
+            "degree": "M.B.B.S., D.N.B., M.N.A.M.S., F.A.I.N.O.T. (Italy)",
+            "dept": "E.N.T.",
+            "mobile": "9811322171",
+            "email": "drnitinaggarwal@gmail.com",
+            "treatment": "E.N.T., Neuro-otology, VertigoTinitus"
+        },
+        "253": {
+            "name": "Nitin Gupta",
+            "degree": null,
+            "dept": "Clinical Haematology",
+            "mobile": "",
+            "email": "docnitingupta@gmail.com",
+            "treatment": ""
+        },
+        "254": {
+            "name": "O.N. Nagi",
+            "degree": "M.B.B.S., M.S. (Ortho) - PGIMER, M.Sc (Oxon) Orthopaedics - Oxford University, UK, M.N.A.M.S.- NAMS, F.A.M.S.- NAMS",
+            "dept": "Joint Replacement Surgery",
+            "mobile": "9312930828",
+            "email": "profnagi@yahoo.co.in",
+            "treatment": "Joint Replacement Knee, Hip, Shoulder, Elbow and Revision Surgery"
+        },
+        "255": {
+            "name": "Pallav Gupta",
+            "degree": "",
+            "dept": "Pathology",
+            "mobile": "08373976210",
+            "email": "pallavkmc1@gmail.com",
+            "treatment": ""
+        },
+        "256": {
+            "name": "Pallavi Purwar",
+            "degree": null,
+            "dept": "Thoracic Surgery",
+            "mobile": "991081862",
+            "email": "pallavi.purwar@sgrh.com, drpp.work@gmail.com",
+            "treatment": "Tuberculosis Surgery\r\nAspergilloma\r\nEmpyema\r\nBronchiectasis\r\nHydatid Disease Of The Lung\r\nLung Cancer\r\nMediastinal Tumors\r\nEsophageal Surgery"
+        },
+        "257": {
+            "name": "Pankaj Garg",
+            "degree": "M.B.B.S., M.D. (Paediatrics), D.N.B. (Paediatrics)",
+            "dept": "Neonatology",
+            "mobile": "9810146581",
+            "email": "pankajgarg69@gmail.com",
+            "treatment": "High Frequency Ventilation, Neonatal Transport, NALS, Nutrition"
+        },
+        "258": {
+            "name": "P.K. Agarwal",
+            "degree": "MD",
+            "dept": "Medicine",
+            "mobile": "9810635204",
+            "email": "drpkagarwal2000@yahoo.com",
+            "treatment": ""
+        },
+        "259": {
+            "name": "Pardeep Bageja",
+            "degree": null,
+            "dept": "Orthopaedics",
+            "mobile": "9811118618",
+            "email": "bagejap@gmail.com",
+            "treatment": "Hip & Knee Replacement Surgery, Ankle & Foot Surgery, Trauma Surgery"
+        },
+        "260": {
+            "name": "Parul Singla",
+            "degree": "",
+            "dept": "Biochemistry",
+            "mobile": "9718378079",
+            "email": "drparul1@yahoo.co.in",
+            "treatment": ""
+        },
+        "261": {
+            "name": "P.K. Pruthi",
+            "degree": "M.B.B.S., M.D., D.CH, M.A.M.S.",
+            "dept": "Paediatrics",
+            "mobile": "9811047394",
+            "email": "pkpruthi@hotmail.com",
+            "treatment": "Paediatric Nephrology"
+        },
+        "262": {
+            "name": "Piyush Ranjan",
+            "degree": "M.B.B.S., M.D. (Med), D.N.B., D.M. (Gastro)",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9811231587, 9868841587",
+            "email": "piyushranjan70@gmail.com",
+            "treatment": ""
+        },
+        "263": {
+            "name": "Pooja Bakshi",
+            "degree": "",
+            "dept": "Pathology",
+            "mobile": "9971158070",
+            "email": "poojabakshi06@yahoo.com",
+            "treatment": ""
+        },
+        "264": {
+            "name": "Poojan Agarwal",
+            "degree": null,
+            "dept": "Pathology",
+            "mobile": "9818264868",
+            "email": "poojanagarwal@gmail.com",
+            "treatment": ""
+        },
+        "265": {
+            "name": "Prabhat Kumar Choudhary",
+            "degree": "",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9210770480",
+            "email": "drprabhat_sgrh@rediffmail.com",
+            "treatment": ""
+        },
+        "266": {
+            "name": "Pradeep Jain",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810088960",
+            "email": "drpjain1414@gmail.com",
+            "treatment": "Pain Management"
+        },
+        "267": {
+            "name": "P.K. Sethi",
+            "degree": "MD, Neurology Boards Qual. (USA)",
+            "dept": "Neurology",
+            "mobile": "9811046006",
+            "email": "sethiprahlad@hotmail.com",
+            "treatment": "Over 187 National and International publications released including 4 books"
+        },
+        "268": {
+            "name": "Prakash Shastri",
+            "degree": "MD, FRCA",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9810937295",
+            "email": "prakashshastri@live.in",
+            "treatment": ""
+        },
+        "269": {
+            "name": "Prashant K. Aggarwal",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811635719",
+            "email": "drprashantaggarwal@gmail.com",
+            "treatment": ""
+        },
+        "270": {
+            "name": "Prasoon Gupta",
+            "degree": null,
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9891571699",
+            "email": "dr.prasoon_gupta@yahoo.com",
+            "treatment": ""
+        },
+        "271": {
+            "name": "Prateek Kumar Gupta",
+            "degree": "MBBS, MS(Ortho), D. Ortho (London), Mch-Ortho (Liverpool), FRCS-Ortho (London)",
+            "dept": "Orthopaedics",
+            "mobile": "9810852876",
+            "email": "sportsmedicinedelhi@yahoo.com",
+            "treatment": "Orthopedic surgeon trained in sports medicine/injury Dr Prateek Gupta has vast experience in sports injuries and keyhole arthroscopic  \u2013 minimal intervention surgery for joint, cartilage, ligament, muscle and  tendon injuries. Specialist in advance knee and shoulder surgery trained in London - Britain under joint replacement unit, he is proficient in speciality work of  hip, shoulder and knee replacement surgeries."
+        },
+        "272": {
+            "name": "Pratip Mandal",
+            "degree": null,
+            "dept": "Orthopaedics",
+            "mobile": "8377967922",
+            "email": "pratipmandal@gmail.com",
+            "treatment": ""
+        },
+        "273": {
+            "name": "Praveen Sharma",
+            "degree": "",
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9810365151/9540951004",
+            "email": "drpraveen_sharma@yahoo.com",
+            "treatment": "Liver Disease and Liver Transplantation"
+        },
+        "274": {
+            "name": "Praveen Kumar",
+            "degree": "",
+            "dept": "Paediatrics",
+            "mobile": "9560190542",
+            "email": "drpraveensingh31@yahoo.com",
+            "treatment": "Paediatric Neurology"
+        },
+        "275": {
+            "name": "Praveen Suman",
+            "degree": "MBBS, MD (Paediatrics)",
+            "dept": "Paediatrics",
+            "mobile": "9811244200",
+            "email": "praveensuman@gmail.com",
+            "treatment": "Developmental Paediatrics"
+        },
+        "276": {
+            "name": "Preeti Chhabra",
+            "degree": "B.A.M.S, M.D. in Medicine (Kayachikitsa), PGDHH (Apollo Hospital)",
+            "dept": "Ayurveda",
+            "mobile": "9891008498",
+            "email": "drrajchh@yahoo.com",
+            "treatment": ""
+        },
+        "277": {
+            "name": "Prof. P.N. Dogra",
+            "degree": null,
+            "dept": "Urology",
+            "mobile": "9810600909",
+            "email": "premnathdogra@gmail.com",
+            "treatment": "Robotic Urological Surgery, Urological Laparoscopic Surgery, Lasers in Urology, Endo-Urology, Uro-Oncology, Urolithiasis, Reconstructive Surgery, Male Infertility, Andrology and Erectile Dysfunction, Surgery of the Pheo-Chromocytoma"
+        },
+        "278": {
+            "name": "P.S. Gupta",
+            "degree": "MBBS, MD, FAMS",
+            "dept": "Medicine",
+            "mobile": "9811082337",
+            "email": "dr_guptaps@yahoo.com",
+            "treatment": "Physician and Gastroenterologist"
+        },
+        "279": {
+            "name": "Promila Chadha",
+            "degree": "M.B.B.S., M.D., F.I.C.S.",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811279953",
+            "email": "pchadha@gmail.com",
+            "treatment": ""
+        },
+        "280": {
+            "name": "Punita Bhardwaj",
+            "degree": "",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9818493076",
+            "email": "punitadoc@yahoo.com",
+            "treatment": "Endometriosis, myomectomy, hysterectomy"
+        },
+        "281": {
+            "name": "P.K. Khanna",
+            "degree": "MBBS, MD, DM (Cardiology), FACC",
+            "dept": "Cardiology",
+            "mobile": "9811158699",
+            "email": "drpkk@yahoo.com",
+            "treatment": ""
+        },
+        "282": {
+            "name": "Purvi Khandelwal",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9097126744",
+            "email": "k_purvi9@yahoo.co.in",
+            "treatment": ""
+        },
+        "283": {
+            "name": "R.R. Mantri",
+            "degree": "MBBS, MD, DM, DNB, Fellow - Electrophysiology",
+            "dept": "Cardiology",
+            "mobile": "9810063107, 9810763960",
+            "email": "drrrmantri@hotmail.com",
+            "treatment": "Interventional Cardiology - Electrophysiology"
+        },
+        "284": {
+            "name": "R.S. Misra",
+            "degree": " ",
+            "dept": "Dermatology",
+            "mobile": "9810201874",
+            "email": "drrsm1@yahoo.com",
+            "treatment": "Skin, Cosmetology and Dermal Surgery"
+        },
+        "285": {
+            "name": "Rachna Gupta",
+            "degree": "MD (Anaesthesiology)",
+            "dept": "Cardiac Anaesthesia",
+            "mobile": "9818023718",
+            "email": "guptarachna25@yahoo.co.in",
+            "treatment": ""
+        },
+        "286": {
+            "name": "Rachna Bhutani",
+            "degree": "MBBS, DA, DNB (Anaesthesia)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811199484",
+            "email": "rachnabhutani@ymail.com",
+            "treatment": ""
+        },
+        "287": {
+            "name": "Raghav Seth",
+            "degree": null,
+            "dept": "Interventional Radiology",
+            "mobile": "9810184163",
+            "email": "raghav_seth@hotmail.com",
+            "treatment": "Interventional Radiology (IR)\r\nVascular Interventions\r\nNon-Vascular Interventions\r\nOncological Interventions\r\nMusculoskeletal Interventions\r\nPain Management\r\nSports Injury"
+        },
+        "288": {
+            "name": "Rahul Modi",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "7300901490",
+            "email": "dr.modirahul@gmail.com",
+            "treatment": "Ovarian Cancers (Cytoreductive Surgery/ HIPEC); Surgery And Management Of All Gynaecological Cancers \u2013 Uterine Cancers, Cervical, Vaginal And Vulvar Cancers; Gestational Trophoblastic Tumours; Complex Pelvic Surgeries; Fertility Preserving Surgeries/Strategies For Gynaecological Cancers"
+        },
+        "289": {
+            "name": "Rahul Kumar",
+            "degree": null,
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9560483158",
+            "email": "rahul_krajput@yahoo.co.in",
+            "treatment": ""
+        },
+        "290": {
+            "name": "Raj Kamal Agarwal",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810152201",
+            "email": "kamalagarwal300@gmail.com",
+            "treatment": "\u2022 Pain Management: Chronic and Cancer pain, Headache, Migraine, Backache, Sciatica, Joint pains, Neck Pain, Frozen Shoulder, Arthritis, Knee Pain etc."
+        },
+        "291": {
+            "name": "Raja Joshi",
+            "degree": "",
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9811118187",
+            "email": "dr.raja_joshi@yahoo.com",
+            "treatment": ""
+        },
+        "292": {
+            "name": "Rajat Mohan",
+            "degree": "MD, DM",
+            "dept": "Cardiology",
+            "mobile": "9810088797",
+            "email": "dr_rmohan@yahoo.com",
+            "treatment": "Interventional, Non-invasive & Preventive Cardiology"
+        },
+        "293": {
+            "name": "Rajat Chopra",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "8826178877",
+            "email": "choprarajat@hotmail.com",
+            "treatment": "Knee -Foot And Ankle Surgery"
+        },
+        "294": {
+            "name": "Rajeev Ahuja",
+            "degree": null,
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9810062554",
+            "email": "rbahuja@gmail.com",
+            "treatment": "Burns, Reconstructive and Aesthetic Surgery"
+        },
+        "295": {
+            "name": "Rajeev Kulshrestha",
+            "degree": "M.B.B.S., M.S. (Gen. Surg.), M.Ch (Ped. Surgery)",
+            "dept": "Paediatric Surgery",
+            "mobile": "9811175242",
+            "email": "krajeev48@yahoo.com",
+            "treatment": "Neonatal Surgery, Paediatric Urology and GI Surgery"
+        },
+        "296": {
+            "name": "Rajeev Ranjan",
+            "degree": "MBBS, MD, DNB",
+            "dept": "Neurology",
+            "mobile": "9818249692",
+            "email": "rrajan727@yahoo.co.in",
+            "treatment": "Stroke and Nerve Diseases"
+        },
+        "297": {
+            "name": "Rajesh Acharya",
+            "degree": "MBBS, MS (Gen. Surgery), MCh (Neuro)",
+            "dept": "Neurosurgery",
+            "mobile": "9810239498",
+            "email": "drracharya@rediffmail.com",
+            "treatment": "Stereotactic Surgery, Paediatric Neurosurgery, Skull Base Surgery"
+        },
+        "298": {
+            "name": "Rajesh Goyal",
+            "degree": "",
+            "dept": "Psychiatry",
+            "mobile": "9811260766",
+            "email": "drrajeshgoyal2002@yahoo.com",
+            "treatment": "Psychotherapy, CBT, Relaxation therepy, Motivational talks and sessions"
+        },
+        "299": {
+            "name": "Rajiv Passey",
+            "degree": "M.B.B.S., D.N.B.(Medicine), M.N.A.M.S., D.M. (Cardiology), F.I.C.P.",
+            "dept": "Cardiology",
+            "mobile": "9810178588",
+            "email": "drrpassey@yahoo.com",
+            "treatment": "Complex Coronay Interventions & Angioplasty Using Advance Techniques\r\nArrhythmia\r\nAtrial Fibrillation\r\nCardiomyopathy\r\nValve Disorders \r\nPacemaker / Aicd / Crt-P / Crt-D Implantation"
+        },
+        "300": {
+            "name": "Rajiv Mehta",
+            "degree": "",
+            "dept": "Psychiatry",
+            "mobile": "9312273235",
+            "email": "drrajivmehta@gmail.com",
+            "treatment": "Sexual disorders, De-addiction, Interpersonal counselling"
+        },
+        "301": {
+            "name": "Rajneesh Jain",
+            "degree": "MBBS, MD, DM ( Cardiology)",
+            "dept": "Cardiology",
+            "mobile": "9810264606",
+            "email": "jainsaniya@yahoo.com",
+            "treatment": "Complex Coronay Interventions & Angioplasty Using Advance Techniques\r\nArrhythmias\r\nCardiomyopathy\r\nValve Disorders\r\nPacemaker / Aicd / Crt-P / Crt-D Implantation"
+        },
+        "302": {
+            "name": "Rajshree Sharma",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "8800303042",
+            "email": "drrajshree83@gmail.com",
+            "treatment": ""
+        },
+        "303": {
+            "name": "Rakesh Saxena",
+            "degree": "M.B.B.S., MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810373301",
+            "email": "r_sgrh@rediffmail.com",
+            "treatment": ""
+        },
+        "304": {
+            "name": "Rakesh Kr. Koul",
+            "degree": "",
+            "dept": "Surgical Oncology",
+            "mobile": "9910568081",
+            "email": "rkkdoc2014@gmail.com",
+            "treatment": ""
+        },
+        "305": {
+            "name": "R.K. Sabharwal",
+            "degree": "MD, DM (Neurology)",
+            "dept": "Paediatrics",
+            "mobile": "9810131516",
+            "email": "mukpran@yahoo.com",
+            "treatment": "Child Neurology, Epilepsy and Autism"
+        },
+        "306": {
+            "name": "Raman Kapur",
+            "degree": "MBBS, MD(Medicine Alternativa)",
+            "dept": "Acupuncture",
+            "mobile": "9958805893",
+            "email": "kapuracu@kapuracu.com",
+            "treatment": "Acupuncture practice and music"
+        },
+        "307": {
+            "name": "Raman Sharma",
+            "degree": null,
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9891280450",
+            "email": "dr.sharma.raman@gmail.com",
+            "treatment": "Plastic Surgery, Cosmetic Surgery, Reconstructive Surgery, Breast And Extremity Reconstruction, Hand Surgery, Brachial Plexus Surgery And Burn Care"
+        },
+        "308": {
+            "name": "Ramesh",
+            "degree": null,
+            "dept": "Yoga Lifestyle Clinic",
+            "mobile": "9810336855",
+            "email": "chandrayogasgrh@gmail.com",
+            "treatment": "Yoga And Lifestyle Management"
+        },
+        "309": {
+            "name": "Rashmi Sama",
+            "degree": "",
+            "dept": "Chest Medicine",
+            "mobile": "9971890707",
+            "email": "rashmisama@gmail.com",
+            "treatment": ""
+        },
+        "310": {
+            "name": "Rashmi Jain",
+            "degree": "MBBS, DNB",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810645865",
+            "email": "write2drrashmi@yahoo.com",
+            "treatment": "Renal Transplant, Day Care Surgery"
+        },
+        "311": {
+            "name": "Rashmi Rana",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "9873046361",
+            "email": "rashmi.rana@sgrh.com",
+            "treatment": ""
+        },
+        "312": {
+            "name": "Rathindra Sarangi",
+            "degree": "MBBS, MS",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9810022579",
+            "email": "rathindra_sarangi@yahoo.co.in",
+            "treatment": "Hernia, Endocrine Surgery (Thyroid, Parathyroid, Adrenal Pancreas)"
+        },
+        "313": {
+            "name": "Rati Agrawal",
+            "degree": null,
+            "dept": "Neurosurgery",
+            "mobile": "9868474674",
+            "email": "drratiagr@gmail.com",
+            "treatment": "Endoscopic Skull Base, Interventional Neurology, Gamma Knife"
+        },
+        "314": {
+            "name": "Ratna Dua Puri",
+            "degree": "M.B.B.S., M.D. (Paediatrics), D.M. (Medical Genetics)",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9811869192",
+            "email": "ratnadpuri@yahoo.com",
+            "treatment": "Clinical Genetics, Inborn Errors of Metabolism, Dysmorphology, Prenatal Diagnosis"
+        },
+        "315": {
+            "name": "R. Bhalla",
+            "degree": "MS, MAMS, FICS, FACS",
+            "dept": "Orthopaedics",
+            "mobile": "9811033985",
+            "email": "drrsbhalla@gmail.com",
+            "treatment": "Joint Replacement, CTEV and Orthopaedic Trauma"
+        },
+        "316": {
+            "name": "Reena Raveendran",
+            "degree": "",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9899013992",
+            "email": "contactreenaraveendran@yahoo.com",
+            "treatment": ""
+        },
+        "317": {
+            "name": "Reena Khantwal Joshi",
+            "degree": "",
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9350209961",
+            "email": "reenakjoshi@yahoo.com",
+            "treatment": ""
+        },
+        "318": {
+            "name": "Reetika Saini",
+            "degree": null,
+            "dept": "Biochemistry",
+            "mobile": "9899207139",
+            "email": "drreetikasaini@gmail.com",
+            "treatment": ""
+        },
+        "319": {
+            "name": "Renu Saxena",
+            "degree": "PhD (Genetics)",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9811805366",
+            "email": "renu2006@gmail.com",
+            "treatment": ""
+        },
+        "320": {
+            "name": "Renuka Brijwal",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9582210137",
+            "email": "drrenukabrijwal@gmail.com",
+            "treatment": ""
+        },
+        "321": {
+            "name": "Richa Kapoor (Occupational Therapist)",
+            "degree": "",
+            "dept": "Rheumatology & Clinical Immunology",
+            "mobile": "9811266992",
+            "email": "rickap5@gmail.com",
+            "treatment": ""
+        },
+        "322": {
+            "name": "Richa Dewan",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "9810301848",
+            "email": "rdewan3@gmail.com",
+            "treatment": "Internal Medicine, Gastroenterology, HIV Expert and Diabetes"
+        },
+        "323": {
+            "name": "Richa Singh",
+            "degree": "",
+            "dept": "Neurosurgery",
+            "mobile": "9313704466",
+            "email": "richas.singh021@gmail.com",
+            "treatment": ""
+        },
+        "324": {
+            "name": "Rishi Parashar",
+            "degree": "MBBS, MD",
+            "dept": "Dermatology",
+            "mobile": "9811121628",
+            "email": "rishi.parashar@gmail.com",
+            "treatment": "Laser Surgery for Hair Removal, Pigmentary disorders, Birth Marks etc."
+        },
+        "325": {
+            "name": "Rishikesh Desai",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "9560149479",
+            "email": "desairishikesh@rediffmail.com",
+            "treatment": "Field Of Expertise\r\n \r\n Infective Diseases\r\n Diabetes\r\n Hypertension\r\n Metabolic Diseases\r\n HIV\r\n Tuberculosis\r\n Fever Of Unknown Origin\r\n Fungal Infections And Sepsis\r\n Sexually Transmitted Diseases\r\n Complex Multi Systemic\r\n Medical Issues\r\n Covid Symptoms Treatment\r\n Chronic Diseases Like Blood Pressure, Diabetes And Obesity\r\n Respiratory Infections, Asthma*Cold, URI, \r\n Sinus Problems\r\n Diarrhea, Vomiting, Stomach Infection Constipation, Bloating, Acidity, Reflux\r\n Geriatric Or Old Age, Elderly Related Problems\r\n Fever Dengue\r\n Thyroid, Skin Problems - Rash, Itching\r\n Joint Pains, Aches And Pains\r\n Allergies - Skin, Upper Respiratory"
+        },
+        "326": {
+            "name": "Ritu Verma",
+            "degree": "",
+            "dept": "Nuclear Medicine & Bone Densitometry",
+            "mobile": "9871692289",
+            "email": "drverma29@rediffmail.com",
+            "treatment": ""
+        },
+        "327": {
+            "name": "Rohit Kumar Rathi",
+            "degree": null,
+            "dept": "Thoracic Surgery",
+            "mobile": "9717799461",
+            "email": "dr.rohitrathi@gmail.com",
+            "treatment": ""
+        },
+        "328": {
+            "name": "Rohit Batra",
+            "degree": "",
+            "dept": "Dermatology",
+            "mobile": "9911200050",
+            "email": "drrohitbatra@gmail.com",
+            "treatment": ""
+        },
+        "329": {
+            "name": "Roma Kumar",
+            "degree": "M.B.B.S., M.A. Applied Psychology",
+            "dept": "Paediatrics",
+            "mobile": "9811087708",
+            "email": "romakumar64@gmail.com",
+            "treatment": "Child and Adult Psychology"
+        },
+        "330": {
+            "name": "Ruma Satwik",
+            "degree": "",
+            "dept": "IVF & Human Reproduction",
+            "mobile": "9810813213",
+            "email": "rumasatwik@gmail.com",
+            "treatment": "Infertility, IVF, Laparoscopy, Vaginal Delivery, Menopause, Saving Uteruses, Breast Feeding"
+        },
+        "331": {
+            "name": "R.S. Chahal",
+            "degree": "MBBS, DNb (Ortho) - SGRH",
+            "dept": "Spinal Surgery",
+            "mobile": "9212545550",
+            "email": "rupinder72@hotmail.com",
+            "treatment": "Spine Surgery"
+        },
+        "332": {
+            "name": "S.K. Chadha",
+            "degree": "",
+            "dept": "Thoracic Surgery",
+            "mobile": "9811047393",
+            "email": "drskc67@gmail.com",
+            "treatment": ""
+        },
+        "333": {
+            "name": "Sabina Langer Kumar",
+            "degree": "",
+            "dept": "Haematology and Clinical Pathology",
+            "mobile": ".",
+            "email": "sabinapost@yahoo.com",
+            "treatment": ""
+        },
+        "334": {
+            "name": "Sabyasachi Bal",
+            "degree": null,
+            "dept": "Thoracic Surgery",
+            "mobile": "01142776222",
+            "email": "drsbal@gmail.com",
+            "treatment": "\u2022 General Thoracic (Lung, Pleura, Mediastinum)"
+        },
+        "335": {
+            "name": "Sachin Kathuria",
+            "degree": "",
+            "dept": "Urology",
+            "mobile": "9810524589",
+            "email": "dr.sachinkathuria@gmail.com",
+            "treatment": "Robotics, Lap & Endocronology, Uro-oncology, Andrology, Endo-urology & Laparascopy"
+        },
+        "336": {
+            "name": "Sahil Kapur",
+            "degree": null,
+            "dept": "Acupuncture",
+            "mobile": "9999999999",
+            "email": "sahil.kapur@sgrh.com",
+            "treatment": ""
+        },
+        "337": {
+            "name": "Sajeela Maini",
+            "degree": "PhD",
+            "dept": "Psychiatry",
+            "mobile": "9891015640",
+            "email": "sajeelamaini@rediffmail.com",
+            "treatment": "De-Addiction, Smoking Cessation, Mental Health Disorders, Relationship Management, Emotion Management (Anger, Anxiety, Depression Etc), New Age Addiction (Social Media, Gambling, Gaming Etc), Lifestyle Management, Happiness Management"
+        },
+        "338": {
+            "name": "Sakshi Nayar",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9811181718",
+            "email": "sakshi.sgrh@gmail.com",
+            "treatment": "Reproductive Endocrinology, Infertility And Gynae Endoscopy."
+        },
+        "339": {
+            "name": "Samarjit S Ghuman",
+            "degree": "",
+            "dept": "CT Scan & MRI",
+            "mobile": "9818476101",
+            "email": "samarjitghuman@gmail.com",
+            "treatment": ""
+        },
+        "340": {
+            "name": "Sameer Bhatia",
+            "degree": null,
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9876678710",
+            "email": "drsameerbhatia@gmail.com",
+            "treatment": "Cancer Genetics, Immuno-Genetics"
+        },
+        "341": {
+            "name": "Samir K Kalra",
+            "degree": "M.B.B.S, M.S., M.Ch (Neurosurgery), DNB, Fellowship",
+            "dept": "Neurosurgery",
+            "mobile": "9971293107, 9868782788",
+            "email": "kalraneuro@gmail.com",
+            "treatment": "Minimally Invasive Neurosurgery"
+        },
+        "342": {
+            "name": "S. Nundy",
+            "degree": "MA, MChir, FRCS, FRCP",
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9811117507",
+            "email": "snundy@hotmail.com",
+            "treatment": "Medical Journals, Websites, Television"
+        },
+        "343": {
+            "name": "Sandeep Joshi",
+            "degree": null,
+            "dept": "Cardiac Anaesthesia",
+            "mobile": "9555484548",
+            "email": "drsandeepjoshi@gmail.com",
+            "treatment": ""
+        },
+        "344": {
+            "name": "Sandeep Chopra",
+            "degree": "M.B.B.S, M.S,  MCh (Neurosurgery)",
+            "dept": "Paediatric Neurosurgery",
+            "mobile": "9818566666",
+            "email": "",
+            "treatment": ""
+        },
+        "345": {
+            "name": "Sandeep Agarwal",
+            "degree": "MBBS, MS (Surgery),  FIVS (England)",
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9810779926, 9871120372",
+            "email": "sagarwal3566@yahoo.com",
+            "treatment": "Repair of Aneurysm \r\nCarotid Endarterectomy\r\nPrevention of Leg Amputation By Revascularisation\r\nManagement of DVT and Varicosoe Veins \r\nCreating AV Fistula for Hemodialysis"
+        },
+        "346": {
+            "name": "Sangeet Agarwal",
+            "degree": null,
+            "dept": "E.N.T.",
+            "mobile": "9968755924",
+            "email": "drsangeetagarwal@gmail.com",
+            "treatment": "Oral Cancer Surgeries"
+        },
+        "347": {
+            "name": "Sangeeta Choudhury",
+            "degree": "",
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "9711260058",
+            "email": "dr.sangeeta.sgrh@gmail.com",
+            "treatment": ""
+        },
+        "348": {
+            "name": "Sangeeta Sachdeva",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Cardiology",
+            "mobile": "9810065404",
+            "email": "sangsach@yahoo.co.in",
+            "treatment": ""
+        },
+        "349": {
+            "name": "Sanghamitra Datta",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Institute of Clinical Microbiology and Immunology",
+            "mobile": "9818016522",
+            "email": "sanghamitra_micro@yahoo.co.in",
+            "treatment": ""
+        },
+        "350": {
+            "name": "Sanjay Manchanda",
+            "degree": "MBBS, DTCD",
+            "dept": "Sleep Medicine",
+            "mobile": "9811051841 ,42412406",
+            "email": "dr_sleep2000@yahoo.com",
+            "treatment": ""
+        },
+        "351": {
+            "name": "Sanjeev Mittal",
+            "degree": "MBBS",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9999999299",
+            "email": "drsmittal@gmail.com",
+            "treatment": ""
+        },
+        "352": {
+            "name": "Sarabjeet S. Sachdeva",
+            "degree": "MBBS, DNB (Orthopaedics)",
+            "dept": "Orthopaedics",
+            "mobile": "9810879795",
+            "email": "japsarabpreet@yahoo.co.in",
+            "treatment": "Pelvic /upper/lower limb trauma \r\nJoint replacement \r\nFoot and ankle surgery \r\nArthroscopic ACL/PCL Reconstruction \r\nSpine surgery"
+        },
+        "353": {
+            "name": "Satinder Singh",
+            "degree": "",
+            "dept": "E.N.T.",
+            "mobile": "9891918742",
+            "email": "satinders201@gmail.com",
+            "treatment": ""
+        },
+        "354": {
+            "name": "Satish Saluja",
+            "degree": "M.B.B.S., M.D., DNBP",
+            "dept": "Neonatology",
+            "mobile": "9811047389",
+            "email": "satishsaluja@gmail.com",
+            "treatment": "Neonatology"
+        },
+        "355": {
+            "name": "Satish Kumar",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "9818659041",
+            "email": "drsatishsharma111@gmail.com",
+            "treatment": "Hip Surgery, Arthroscopy, Complex Trauma"
+        },
+        "356": {
+            "name": "S. C. Malik",
+            "degree": "MBBS, MD",
+            "dept": "Psychiatry",
+            "mobile": "9810070878",
+            "email": "satishsujata@hotmail.com",
+            "treatment": "Behaviour therapy & Psychotherapy & Obsessive compulsive disorders"
+        },
+        "357": {
+            "name": "Satish Kr. Aggarwal",
+            "degree": null,
+            "dept": "Paediatric Surgery",
+            "mobile": "9868334600",
+            "email": "satish.childurology@gmail.com",
+            "treatment": "Paediatric Urology, Paediatric Laparoscopy, Paediatric Chest Surgery"
+        },
+        "358": {
+            "name": "Satnam Singh Chhabra",
+            "degree": "M.B.B.S., M.S., M.Ch",
+            "dept": "Neurosurgery",
+            "mobile": "9811049762",
+            "email": "drchhabra@hotmail.com",
+            "treatment": "Endoscopic Spinal Surgery, Endoscopic Brain Surgery"
+        },
+        "359": {
+            "name": "Saumitra Rawat",
+            "degree": "",
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9910820266",
+            "email": "drsaumitrarawat@gmail.com, drsaumitrarawat@yahoo.com",
+            "treatment": ""
+        },
+        "360": {
+            "name": "Saurabh Taneja",
+            "degree": "",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9811538315",
+            "email": "dr.saurabhtaneja@gmail.com",
+            "treatment": ""
+        },
+        "361": {
+            "name": "Savitar Malhotra",
+            "degree": "M.B.B.S., M.D. (Anaesthesiology)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9958908713",
+            "email": "savitarmalhotra@yahoo.com",
+            "treatment": ""
+        },
+        "362": {
+            "name": "Seema Bhargava",
+            "degree": "DNB",
+            "dept": "Biochemistry",
+            "mobile": "9818084844",
+            "email": "bhargavaseema6@gmail.com",
+            "treatment": ""
+        },
+        "363": {
+            "name": "Seema Sud",
+            "degree": "MBBS, DNB",
+            "dept": "CT Scan & MRI",
+            "mobile": "9811834007",
+            "email": "sudseema@gmail.com",
+            "treatment": ""
+        },
+        "364": {
+            "name": "Seema Rao",
+            "degree": "",
+            "dept": "Pathology",
+            "mobile": "9868551374",
+            "email": "seemarao1974@yahoo.co.in",
+            "treatment": ""
+        },
+        "365": {
+            "name": "Setu Gupta",
+            "degree": null,
+            "dept": "Endocrinology & Metabolism",
+            "mobile": "9711451543, 9810601543",
+            "email": "setugupta@outlook.com",
+            "treatment": "\u25cf Diabetes \u25cf Hypertension (Difficult to Treat) \u25cf Thyroid Disorders \u25cf Osteoporosis \u25cf Calcium & Electrolyte Disorders\r\n\u26a7 Transgender Health \u25cf Pituitary Disorders \u25cf Disorders of Lipids \u25cf Puberty & Growth Disorders \u25cf PCOD & Hirsutism"
+        },
+        "366": {
+            "name": "Shalabh Sharma",
+            "degree": "M.B.B.S., M.S. (ENT), DNB (ENT), F.R.C.S (Ireland), DLO (England)",
+            "dept": "E.N.T.",
+            "mobile": "9810121977",
+            "email": "drshalabh68@yahoo.co.in",
+            "treatment": "Endoscopic sinus surgery, Cochlear Implants, Ear Microsurgery"
+        },
+        "367": {
+            "name": "Shaloo Bageja",
+            "degree": "MBBS, DNB, FRCS (I)",
+            "dept": "Ophthalmology",
+            "mobile": "9999945475",
+            "email": "bagejashaloo@yahoo.co.in",
+            "treatment": "Phacoemulsification (Cataract), Glaucoma, Lasik, Cornea, Oculoplastic Surgery"
+        },
+        "368": {
+            "name": "Shankar Acharya",
+            "degree": "M.B.B.S., D.N.B. (Ortho), M.S. (Ortho), F.R.C.S. (Glasg & Edin), F.R.C.S. (Orth), M.Ch (Ortho)-Liverpool, Spine Surgeon",
+            "dept": "Spinal Surgery",
+            "mobile": "9212545551",
+            "email": "spineshankar@gmail.com",
+            "treatment": "My Main Interest Is Spine Surgery And At Present 90% Of My Work Is Spine. I Have Had Extensive Training In All Aspect Of Spinal Surgery. I Deal With Spinal Trauma, Spinal Infections, Spinal Tumor, Spinal Deformity & Other Adult Degenerative Conditions Of The Spine. I Am Performing Endoscopic, Microscopic Disectomies, Deformity Correction, Mini Open Fixations And Other Complex Spinal Fixations. I Have Done A Wide Variety Of Anterior Surgical Procedures. I Am Performing All Spinal Procedures Independently From Cervical Spine To Sacrum. I Do All Scoliosis Surgery."
+        },
+        "369": {
+            "name": "Sharmistha Garg",
+            "degree": null,
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9910649906",
+            "email": "drsharmisthabanerjee@gmail.com",
+            "treatment": ""
+        },
+        "370": {
+            "name": "Shashank Pandey",
+            "degree": "MD, DIP (Card. Anaes.)",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9811700660",
+            "email": "shashankpandey16@gmail.com",
+            "treatment": ""
+        },
+        "371": {
+            "name": "Shashank Misra",
+            "degree": "",
+            "dept": "Orthopaedics",
+            "mobile": "9958261606",
+            "email": "deskclinic@gmail.com",
+            "treatment": "Shoulder Arthroscopy"
+        },
+        "372": {
+            "name": "Shashi Dhawan",
+            "degree": "",
+            "dept": "Pathology",
+            "mobile": "9711000361",
+            "email": "shashi.dhawan@gmail.com",
+            "treatment": ""
+        },
+        "373": {
+            "name": "S.N. Jha",
+            "degree": "MBBS, MD",
+            "dept": "Ophthalmology",
+            "mobile": "9811055753",
+            "email": "dr_snjha@yahoo.com",
+            "treatment": ""
+        },
+        "374": {
+            "name": "Sheikh Mohammad Taha Mustafa",
+            "degree": "M.B.B.S., M.S., M.R.C.S.",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "8447912968",
+            "email": "drtaha@delhicolorectal.com",
+            "treatment": "Colon & Rectal Surgery - All Cancerous And Non Cancerous Conditions Of Colon And Rectum Including Pelvic Floor. Colon Cancer, Rectal Cancer, Ulcerative Colitis, Crohn's Disease, Rectal Prolapse Etc. Robotic, Laparoscopic And Trans Anal Minimally Invasive Surgery ( TAMIS) And Trans Anal Total Mesorectal Excsion ( Tatme). Colonoscopies - Both Diagnostic As Well As Therapeutic, Sphincter Saving Surgeries For Rectal Cancer"
+        },
+        "375": {
+            "name": "Shelley Hukku",
+            "degree": null,
+            "dept": "Radiation Oncology",
+            "mobile": "9810044242",
+            "email": "hukkus@yahoo.co.in",
+            "treatment": "IGRT, IMRT, SRT/SRS, SBRT,"
+        },
+        "376": {
+            "name": "Shelly Sharma",
+            "degree": null,
+            "dept": "Radiology",
+            "mobile": "9958422553",
+            "email": "raddocss@gmail.com",
+            "treatment": ""
+        },
+        "377": {
+            "name": "Shikha Halder",
+            "degree": null,
+            "dept": "Radiation Oncology",
+            "mobile": "9818356605",
+            "email": "shikhahlader1964@gmail.com",
+            "treatment": "Total Body Radiation in Bone Marrow Transplant"
+        },
+        "378": {
+            "name": "Shikha Sharma",
+            "degree": "MD",
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9810382283",
+            "email": "sshikha18@gmail.com",
+            "treatment": ""
+        },
+        "379": {
+            "name": "Shilpa Garg",
+            "degree": null,
+            "dept": "Dermatology",
+            "mobile": "09205228092",
+            "email": "docshilpagarg@gmail.com",
+            "treatment": "Pigmentation Disorders, Hair Disorders, Vitiligo Treatment, Pediatric Dermatology, LASERS, Botox, Mesotherapy, PRP (Platelet Rich Plasma Therapy), Acne Scar Treatment, Nail Disorders, Skin Biopsy, Cautery, Peels, Dermaroller, Subcision"
+        },
+        "380": {
+            "name": "S.S. Saha",
+            "degree": "M.B.B.S., M.S., M.Ch",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9810014387",
+            "email": "sssaha@yahoo.com",
+            "treatment": "Cleft And Facial Surgery"
+        },
+        "381": {
+            "name": "Shivam Khare",
+            "degree": null,
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "9754478909",
+            "email": "khare.shivam.shivam.1987@gmail.com",
+            "treatment": "Therapeutic Endoscopic Procedures, Endoscopic Ultrasound, Third Space Endoscopy, POEM, Liver"
+        },
+        "382": {
+            "name": "Shivani Mittal",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "9810884733",
+            "email": "shivani.mittal@sgrh.com",
+            "treatment": ""
+        },
+        "383": {
+            "name": "Shoaib Ahmed",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "9911225510",
+            "email": "drahmedshoaibheart@gmail.com",
+            "treatment": ""
+        },
+        "384": {
+            "name": "Shrey Jain",
+            "degree": null,
+            "dept": "Neurosurgery",
+            "mobile": "8447388273",
+            "email": "dr.shreyjain@gmail.com",
+            "treatment": "Endoscopic Neurosurgery, Functional Neurosurgery, Neuro-Oncology, Vascular Neurosurgery, Minimally Invasive Spine Surgery"
+        },
+        "385": {
+            "name": "Shrihari Anikhindi",
+            "degree": null,
+            "dept": "Institute Of Liver Gastroenterology & Pancreatico Biliary Sciences",
+            "mobile": "8373956846",
+            "email": "dr.anikhindi@gmail.com",
+            "treatment": "Advanced Endoscopy, Luminal Gastroenterology And GI Motility"
+        },
+        "386": {
+            "name": "S.P. Byotra",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Medicine",
+            "mobile": "9811047379",
+            "email": "byotra@yahoo.co.in",
+            "treatment": ""
+        },
+        "387": {
+            "name": "Shweta Gogia",
+            "degree": "",
+            "dept": "E.N.T.",
+            "mobile": "9818966277",
+            "email": "drshwetagogia@gmail.com",
+            "treatment": "Otology, endoscopic sinus surgery, paediatric otorhinolaryngology"
+        },
+        "388": {
+            "name": "Shweta Mittal Gupta",
+            "degree": "M.B.B.S., M.D. (Obst. & Gynae), Postdoctoral Fellowship (Reproductive Medicine), DNB, MNAMS",
+            "dept": "Obstetrics & Gynaecology",
+            "mobile": "9910303056",
+            "email": "mshwets@hotmail.com",
+            "treatment": "Infertility, IVF & Endoscopy"
+        },
+        "389": {
+            "name": "S.P. Mandal",
+            "degree": "M.B.B.S., M.S., M.Ch (Liverpool, UK)",
+            "dept": "Orthopaedics",
+            "mobile": "9810070378, 9312635885",
+            "email": "spm_1940@yahoo.co.in",
+            "treatment": "Joint Replacement, Arthroscopy, Trauma and Paediatrics Orthopaedics"
+        },
+        "390": {
+            "name": "Shyamala Bembey",
+            "degree": null,
+            "dept": "Nuclear Medicine & Bone Densitometry",
+            "mobile": "9811070794",
+            "email": "sbembey@yahoo.com",
+            "treatment": ""
+        },
+        "391": {
+            "name": "Siddartha Rudrappa",
+            "degree": null,
+            "dept": "Paediatric Cardiac Sciences",
+            "mobile": "9751030793",
+            "email": "siddatha.cr@gmail.com",
+            "treatment": ""
+        },
+        "392": {
+            "name": "Sneyhil Tyagi",
+            "degree": null,
+            "dept": "Neurosurgery",
+            "mobile": "9540896582",
+            "email": "doc.sneyhil@yahoo.com",
+            "treatment": ""
+        },
+        "393": {
+            "name": "Sonia Badwal",
+            "degree": null,
+            "dept": "Pathology",
+            "mobile": "8800898544",
+            "email": "soniabadwal06@gmail.com",
+            "treatment": ""
+        },
+        "394": {
+            "name": "Sonia Rawat",
+            "degree": null,
+            "dept": "Preventive Health and Wellness",
+            "mobile": "9560487335",
+            "email": "soniarawat3357@gmail.com",
+            "treatment": ""
+        },
+        "395": {
+            "name": "Soumya Tandon",
+            "degree": null,
+            "dept": "Psychiatry",
+            "mobile": "8872144424",
+            "email": "soumyajhanda86@gmail.com",
+            "treatment": "Child & Adolescent Psychiatry, ADHD, Autism, Schizophrenia, Bipolar Disorder, Behavior Therapy/CBT, Research"
+        },
+        "396": {
+            "name": "Sri Aurobindo Prasad Das",
+            "degree": null,
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9940810123/9773918936",
+            "email": "aurobindodas84@gmail.com",
+            "treatment": "Liver Transplantation, Laparoscopic GI Surgery, Complex HPB Surgery"
+        },
+        "397": {
+            "name": "Srikrishna Das",
+            "degree": "",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9871972224",
+            "email": "drkrishnaaiims@gmail.com",
+            "treatment": ""
+        },
+        "398": {
+            "name": "S.C. Bharija",
+            "degree": "M.B.B.S., M.D.",
+            "dept": "Dermatology",
+            "mobile": "9810068687",
+            "email": "drscbharija@gmail.com",
+            "treatment": ""
+        },
+        "399": {
+            "name": "Subhash Manchanda",
+            "degree": "MBBS, MD (Med), DM (Cardiology)",
+            "dept": "Cardiology",
+            "mobile": "9873695460",
+            "email": "doctormanchanda@yahoo.com",
+            "treatment": ""
+        },
+        "400": {
+            "name": "S.C. Sharma",
+            "degree": "MBBS, Dip T.P.M. , University of Barcelona (spain)",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9810179303",
+            "email": "svamsharma@yahoo.co.in",
+            "treatment": ""
+        },
+        "401": {
+            "name": "Sudha Kohli",
+            "degree": "PhD",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9818272977",
+            "email": "kohli_sudha@yahoo.com",
+            "treatment": ""
+        },
+        "402": {
+            "name": "Sudhir Khanna",
+            "degree": "MS, DNB (Surgery) MCh.(Urology), DNB (Urology)",
+            "dept": "Urology",
+            "mobile": "9810195227",
+            "email": "sk1957@gmail.com",
+            "treatment": "Robotic Surgery for Cancer Prostate , Bladder & Kidney,  Bladder neck obstruction,  Special interests in  Urinary Tuberculosis and Fungal infections, Female Urology, Stone diseases (PCNL/URS), Greenlight PVP (KTP) Laser for BPH"
+        },
+        "403": {
+            "name": "Sudhir Tripathi",
+            "degree": "MBBS,  MD(Medicine), DM (Endocrinology)",
+            "dept": "Endocrinology & Metabolism",
+            "mobile": "9811126165",
+            "email": "sudhirtrip@gmail.com",
+            "treatment": ""
+        },
+        "404": {
+            "name": "Sudhir Chadha",
+            "degree": "MS, MCh, DIP UROL",
+            "dept": "Urology",
+            "mobile": "9810233670",
+            "email": "drsudhirchadha@gmail.com",
+            "treatment": "Renal Transplantatio Erectile Dysfunction and Female Urology"
+        },
+        "405": {
+            "name": "Sudhir Kumar Kalhan",
+            "degree": "",
+            "dept": "Minimal Access & Bariatric Surgery Centre",
+            "mobile": "9810067050",
+            "email": "sudhirkalhan@gmail.com",
+            "treatment": "Leading Surgeon For Gallstones Disease , Hernia , Weight Loss Surgery."
+        },
+        "406": {
+            "name": "Sudhisha Dubey",
+            "degree": "",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9958337933",
+            "email": "dsudhisha@yahoo.com",
+            "treatment": ""
+        },
+        "407": {
+            "name": "Sujata  Sawhney",
+            "degree": "M.B.B.,S. -, M.D (Pediatrics), M.R.C.P (UK), CCST (UK)",
+            "dept": "Paediatrics",
+            "mobile": "9811444116",
+            "email": "drsujatasawhney@gmail.com",
+            "treatment": ""
+        },
+        "408": {
+            "name": "Sujay Shad",
+            "degree": "MBBS, MS, FRCS (Surgery), FRCS (Cardio Thoracic Surgery)",
+            "dept": "Cardiac Surgery",
+            "mobile": "9811177891",
+            "email": "sujayshad@gmail.com",
+            "treatment": "Adult Cardiac Surgery: Bypass Surgery:- Off Pump CABG, Total Arterial CABG. Keyhole Cardiac Valve Surgery, Aortic Surgery:- Thoracic Aortic Aneurysms And Dissections. Aortic Arch Surgery For Aneurysms Of Arch. Surgery For Hypertrophic Obstructive Cardiomyopathy (HOCM) Septal Myectomy, Pulmonary Thromboendarterectomy For CTEPH."
+        },
+        "409": {
+            "name": "Sumir Dubey",
+            "degree": "MBBS, MS, MCH",
+            "dept": "Cardiac Surgery",
+            "mobile": "9810319772",
+            "email": "sumirdubey@gmail.com",
+            "treatment": "Valve Repair and Replacement, Minimally Invasive (KEYHOLE) Valve Surgery. Coronary Artery Bypass Surgery (OFF PUMP & ON PUMP), Total Arterial Revascularisation. Pulmonary Thromboendarterectomy and Surgery for Pulmonary Embolism. Aortic Surgery for Aneurys"
+        },
+        "410": {
+            "name": "Sumit Kalra",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9999937430",
+            "email": "xumitkalra@gmail.com",
+            "treatment": ""
+        },
+        "411": {
+            "name": "Sumit Gupta",
+            "degree": null,
+            "dept": "Dermatology",
+            "mobile": "9811341350",
+            "email": "drs987@gmail.com",
+            "treatment": ""
+        },
+        "412": {
+            "name": "Sunil  Jain",
+            "degree": "MBBS, MD, LLB",
+            "dept": "Medicine",
+            "mobile": "9810123300",
+            "email": "drsuniljain@gmail.com",
+            "treatment": ""
+        },
+        "413": {
+            "name": "Sunil Datta",
+            "degree": "MDS ( Prosthodontics), BDS",
+            "dept": "Dental Surgery",
+            "mobile": "9810062250",
+            "email": "sunil.datta27@gmail.com",
+            "treatment": "Dental Implants, Cosmetic Dentistry, Smile Makeovers"
+        },
+        "414": {
+            "name": "Sunila Jain",
+            "degree": "",
+            "dept": "Pathology",
+            "mobile": "9871157767",
+            "email": "s_isha19@rediffmail.com",
+            "treatment": ""
+        },
+        "415": {
+            "name": "Sunita Bijarnia Mahay",
+            "degree": "MBBS, DNB(Ped), DCH",
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9810179666",
+            "email": "Bijarnia@gmail.com; sunitabijarnia@sgrh.com",
+            "treatment": "Inherited metabolic disorders (IEMs), Clinical genetics and fetal medicine"
+        },
+        "416": {
+            "name": "Sunita Kapur",
+            "degree": "M.B.B.S",
+            "dept": "Acupuncture",
+            "mobile": "9958805894",
+            "email": "sunita@icanm.com",
+            "treatment": "Teaching Acupuncture"
+        },
+        "417": {
+            "name": "Sunitha G",
+            "degree": "MDS, MDS (Oral and Maxillofacial Surgery)",
+            "dept": "Dental Surgery",
+            "mobile": "9953326256",
+            "email": "",
+            "treatment": ""
+        },
+        "418": {
+            "name": "Suresh Gupta",
+            "degree": "M.B.B.S., M.D. (Ped)",
+            "dept": "Paediatrics",
+            "mobile": "9811426628",
+            "email": "sureshgupta62@gmail.com",
+            "treatment": "Pediatric Emergency Medicine & Acute Care and Clinical Toxicology"
+        },
+        "419": {
+            "name": "Suresh Singhvi",
+            "degree": "",
+            "dept": "Institute of Surgical Gastroenterology, GI and HPB Onco-Surgery and Liver Transplantation",
+            "mobile": "9560703966",
+            "email": "singhvisuresh@gmail.com, singhvisuresh@hotmail.com",
+            "treatment": "Liver transplatation, Hepatopancreaticobillary surgery, liver trauma, laparoscopic liver surgery"
+        },
+        "420": {
+            "name": "Sushant Wattal",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "9880768081",
+            "email": "sushantwattal1985@gmail.com",
+            "treatment": "Interventions and Structural Heart Disease"
+        },
+        "421": {
+            "name": "Sushma Saroa",
+            "degree": "",
+            "dept": "CT Scan & MRI",
+            "mobile": "9582554554",
+            "email": "drsushmasaroa@yahoo.co.in",
+            "treatment": ""
+        },
+        "422": {
+            "name": "Suviraj John",
+            "degree": "",
+            "dept": "Minimal Access & Bariatric Surgery Centre",
+            "mobile": "9810833080",
+            "email": "drsuvirajjohn@gmail.com",
+            "treatment": "English, Hindi, Punjabi , Tamil"
+        },
+        "423": {
+            "name": "Swaroop Singh Gambhir",
+            "degree": "M.B.B.S., M.S., D.N.B. (Plastic Surgery), M.N.A.M.S.",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "7838140200",
+            "email": "swaroopg@gmail.com",
+            "treatment": "Cosmetic, Hand, Maxillofacial"
+        },
+        "424": {
+            "name": "Swarup Medda",
+            "degree": null,
+            "dept": "Cardiology",
+            "mobile": "9873324624",
+            "email": "drswarup6@yahoo.com",
+            "treatment": ""
+        },
+        "425": {
+            "name": "Swasti",
+            "degree": null,
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9810257871",
+            "email": "drswastipal@gmail.com",
+            "treatment": "Neurogenetics, Neuromuscular Disorders, Adult Genetic Disorders Including Neurodegenerative Disorders, Metabolic Disorders And Fetal Anomalies"
+        },
+        "426": {
+            "name": "Tanvi Batra",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "7721971770",
+            "email": "Tanvibatra10@gmail.com",
+            "treatment": "Diabetes Mellitus, Hypertension, PUO, Critical Illnesses, Infections, Bronchial Asthma/COPD, Stroke"
+        },
+        "427": {
+            "name": "Tanvir Singh",
+            "degree": null,
+            "dept": "Dental Surgery",
+            "mobile": "9818341745, 9811244089",
+            "email": "drsinghtanvir@gmail.com; www.dentemcenter.com",
+            "treatment": "Braces for Children & Adults; Invisible Braces, Aligners, Smile Architect, Full Mouth Rehab"
+        },
+        "428": {
+            "name": "Tarun Mittal",
+            "degree": "",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "09811743877",
+            "email": "tarunmittalmas@gmail.com",
+            "treatment": "Laparoscopic Bariatric surgery, Laparoscopic Hernia surgery, Laparoscopic Hepatobiliary surgery,\r\nRobotic Surgery"
+        },
+        "429": {
+            "name": "T.B.S. Buxi",
+            "degree": "MBBS, MD (Radiodiagnosis)",
+            "dept": "CT Scan & MRI",
+            "mobile": "9811047395",
+            "email": "tbsbuxi@yahoo.com",
+            "treatment": ""
+        },
+        "430": {
+            "name": "Tinku Bali Razdan",
+            "degree": "M.B.B.S., M.S., F.R.C.S.",
+            "dept": "Ophthalmology",
+            "mobile": "9999901122",
+            "email": "tinkubali2020@yahoo.com",
+            "treatment": "Vitreo-retinal Surgery, Macular Disorders, Diabetic Eye Disease"
+        },
+        "431": {
+            "name": "Tushar Grover",
+            "degree": null,
+            "dept": "Ophthalmology",
+            "mobile": "8940003678",
+            "email": "tushargr@gmail.com",
+            "treatment": "Phacoemulsification, Cornea & Refractive Surgery"
+        },
+        "432": {
+            "name": "Uday Monga",
+            "degree": null,
+            "dept": "E.N.T.",
+            "mobile": "8057390939",
+            "email": "udaymonga@gmail.com",
+            "treatment": "Lateral and Anterior skull base surgery, Endoscopic ear and sinus surgery"
+        },
+        "433": {
+            "name": "Ujjwal Parakh",
+            "degree": "",
+            "dept": "Chest Medicine",
+            "mobile": "9810672962",
+            "email": "ujjwalparakh@yahoo.co.in",
+            "treatment": "Asthma, COPD, Interstitial Lung Disease, Tuberculosis, Bronchoscopy, Endobronchial Ultrasound ( EBUS), Thoracoscopy, Rigid Bronchoscopy, Cryo Biopsy, Interventional Pulmonology, Bronchial Thermoplasty, Intervapour Thermal Vapour Ablation"
+        },
+        "434": {
+            "name": "Ushast Dhir",
+            "degree": null,
+            "dept": "Liver Transplant",
+            "mobile": "9560993585",
+            "email": "ushast@gmail.com",
+            "treatment": "Living Donor & Deceased Donor (Cadaveric) Liver Txp., Multiorgan Abdominal Txp, Hepatocellular Carcenoma (HCC), Cholangio Carcinoma, Gall Bladder Cancer, Hepato-Biliary Surgery, Robotic & Laparoscopic Surgery, Single Hole Surgery, Bariatric Surgery"
+        },
+        "435": {
+            "name": "V.P. Sachar",
+            "degree": "MRCP (G), FRCP (E)",
+            "dept": "Medicine",
+            "mobile": "9818249206",
+            "email": "",
+            "treatment": "Internal Medicine"
+        },
+        "436": {
+            "name": "Vandana Arya",
+            "degree": "",
+            "dept": "Haematology and Clinical Pathology",
+            "mobile": "9899590823",
+            "email": "vandanapgi@gmail.com",
+            "treatment": "Cancer Genetics, Molecular Hematology And Pharmacogenetics"
+        },
+        "437": {
+            "name": "Varinder Singh Bedi",
+            "degree": "",
+            "dept": "Vascular & Endovascular Surgery",
+            "mobile": "9968094990",
+            "email": "bedi.varinder@gmail.com",
+            "treatment": "\u2022 Aortic Aneurysms \u2013 Surgical And Endovascular Management: Performed Abdominal, Thoracic Aortic Aneurysms Surgeries And Endovascular Treatment At Army Hospital R&R INHS Asvini And Sir Ganga Ram Hospital For The Last 27 Years. Our Present Center Performs One Of The Largest Number Of Endovascular Aneurysm Repairs In The Country.\r\n \u2022 Carotid Surgery: Learnt \u2018Eversion Endarterectomy\u2019 Technique In Germany. Only Vascular Surgeon In India Using This Technique. Have The Largest Series Of Eversion Endarterectomies In India. Converted Modified Eversion Endarterectomy In India Since 2014 And The Only Centre Performing This Procedure. \r\n\u2022 Hybrid Vascular Procedures For Supra Renal Aortic Aneurysms & Thoracic Aortic Aneurysms: First In The Country To Perform Visceral Hybrids For Thoraco Abdominal Aortic Aneurysms. Have The Largest Series Of Complex Aneurysms Cases In India For Visceral Hybrid Surgery. We Regularly Perform On-Table Fenestration For Endovascular Therapies, Chimney And Sandwich Therapies For Aortic Aneurysms."
+        },
+        "438": {
+            "name": "Varun Rai",
+            "degree": null,
+            "dept": "E.N.T.",
+            "mobile": "9958014000",
+            "email": "varun_rai@me.com, sgrhsialendoscopy@gmail.com",
+            "treatment": "Endoscopic Sinus and skull base surgery, Micro ear surgery and middle ear implants, Sialendoscopy and Salivary Gland pathologies, Voice and swallowing disorders."
+        },
+        "439": {
+            "name": "Vasu Vashishtha",
+            "degree": null,
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "8527063978",
+            "email": "vasu.vashishtha168@gmail.com",
+            "treatment": "Laparoscopic, Gastrointestinal & HPB Surgery, Laparoscopic Colorectal Surgery and other\r\nadvanced laparoscopic surgeries, thyroid and breast surgeries"
+        },
+        "440": {
+            "name": "Vasundhara Oberoi",
+            "degree": "M.B.B.S., M.S., M.Ch (Plastic)",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9810009427",
+            "email": "vasundhara_oberoi@yahoo.co.in, theaestheticsurgeryclinic@gmail.com",
+            "treatment": "Abdominoplasty,Body lift, Botox, Breast augumentation, lift & reduction,Endoscopic forehead & Face lift, Eyelid Surgery, Fillers, Hair Transplant, Implants, Laser Hair reduction, Laser Surgery Liposuction Male breast reduction,Mesotherapy, Rhinoplasty, PRP, Acne Scar Face Rejuvenation, Brow Lift, Scar Revision."
+        },
+        "441": {
+            "name": "(Lt General) Ved Chaturvedi",
+            "degree": null,
+            "dept": "Rheumatology & Clinical Immunology",
+            "mobile": "9560001969",
+            "email": "vedchaturvedi@hotmail.com",
+            "treatment": "\u2022 To research new affordable treatments for patients of Rheumatology and clinical immunology"
+        },
+        "442": {
+            "name": "Ved Prakash",
+            "degree": "M.B.B.S., M.R.C.P., D.T.M&H.",
+            "dept": "Medicine",
+            "mobile": "9811972433",
+            "email": "",
+            "treatment": "Rheumatology And Clinical Immunology - Various Types Of Arthritis And Autoimmune Disease And Ultrasound In Rheumatology"
+        },
+        "443": {
+            "name": "Veronica Arora",
+            "degree": null,
+            "dept": "Institute of Medical Genetics & Genomics",
+            "mobile": "9874134279",
+            "email": "veronicaarora@gmail.com",
+            "treatment": ""
+        },
+        "444": {
+            "name": "Vaibhav Tiwari",
+            "degree": null,
+            "dept": "Nephrology",
+            "mobile": "9740352874",
+            "email": "drvt87@gmail.com",
+            "treatment": "Diabetes, Glomerulonephritis and Intervention Nephrology"
+        },
+        "445": {
+            "name": "Vibha Taneja",
+            "degree": null,
+            "dept": "Department of Biotechnology and Research",
+            "mobile": "+91 9910021279",
+            "email": "",
+            "treatment": ""
+        },
+        "446": {
+            "name": "V.S. Madan",
+            "degree": "M.B.B.S., M.S., M.Ch",
+            "dept": "Spinal Surgery",
+            "mobile": "9811034120",
+            "email": "drvijay@airtelmail.in",
+            "treatment": ""
+        },
+        "447": {
+            "name": "Vikas Sethi",
+            "degree": "M.D.S.",
+            "dept": "Dental Surgery",
+            "mobile": "9212011598",
+            "email": "drvsethi@gmail.com",
+            "treatment": "Cosmetic dentistry, Implants, Crown and Bridge"
+        },
+        "448": {
+            "name": "Vinant Bhargava",
+            "degree": "",
+            "dept": "Nephrology",
+            "mobile": "9990610096",
+            "email": "vinant_bhargava@yahoo.com",
+            "treatment": "Kidney Transplantation, Dialysis, Nephrotic Syndrome, Vascular Access Creation"
+        },
+        "449": {
+            "name": "Vinay Goel",
+            "degree": null,
+            "dept": "Interventional Neuroradiology",
+            "mobile": "8447544583",
+            "email": "vinaygoel28@gmail.com",
+            "treatment": ""
+        },
+        "450": {
+            "name": "Vineet Dhawan",
+            "degree": null,
+            "dept": "Anaesthesiology, Pain & Perioperative Medicine",
+            "mobile": "9654078681",
+            "email": "drvineetdhawan@gmail.com",
+            "treatment": ""
+        },
+        "451": {
+            "name": "Vinod Kumar Singh",
+            "degree": "MBBS, MD(Respiratory Medicine),MRCP(UK),FCCP",
+            "dept": "Institute of Critical Care Medicine",
+            "mobile": "9810301011",
+            "email": "vinodksingh66@yahoo.co.in",
+            "treatment": ""
+        },
+        "452": {
+            "name": "Vinod K. Malik",
+            "degree": "M.B.B.S, M.S.(Surgery)",
+            "dept": "Laparoscopic, Laser & General Surgery",
+            "mobile": "9810459246",
+            "email": "vinod.k.malik@gmail.com",
+            "treatment": "GI Surgery : Minimal Invasive Surgery, Cancer Surgery, Endocrine Surgery"
+        },
+        "453": {
+            "name": "Vinus Taneja",
+            "degree": null,
+            "dept": "Medicine",
+            "mobile": "9560149441",
+            "email": "card.neuro@gmail.com",
+            "treatment": ""
+        },
+        "454": {
+            "name": "Vipin Kumar Tyagi",
+            "degree": "",
+            "dept": "Renal Transplantation",
+            "mobile": "9911174670",
+            "email": "vipin24kgmc@gmail.com",
+            "treatment": "Robotic & Laparoscopic Urology, Andrology, Reconstructive urology and  Kidney Transplantation"
+        },
+        "455": {
+            "name": "V.K. Khanna",
+            "degree": "M.B.B.S., M.D. (Paediatrics0",
+            "dept": "Paediatrics",
+            "mobile": "9810160171",
+            "email": "khannamilestones@yahoo.com",
+            "treatment": "Thalassemia"
+        },
+        "456": {
+            "name": "V.B. Bhasin",
+            "degree": "MBBS, MS (Ortho)",
+            "dept": "Orthopaedics",
+            "mobile": "7011881134, 9013105105",
+            "email": "bestarthroscopy@hotmail.com",
+            "treatment": "ACL Reconstruction, Arthroscopy of Knee, shoulder, Ankle, Wrist"
+        },
+        "457": {
+            "name": "Vivek Ranjan",
+            "degree": null,
+            "dept": "Blood Transfusion Medicine",
+            "mobile": "9899703826",
+            "email": "vivek.ranjan@sgrh.com",
+            "treatment": ""
+        },
+        "458": {
+            "name": "Vivek Kumar",
+            "degree": "M.B.B.S., M.S. (Gen. Surgery), D.N.B. (Plastic Surgery)",
+            "dept": "Plastic & Cosmetic Surgery",
+            "mobile": "9711198444",
+            "email": "drkumarvivek@gmail.com",
+            "treatment": "Cosmetic Surgery, Facial Plastic Surgery, Maxillofacial Surgery"
+        },
+        "459": {
+            "name": "V.K. Nijhawan",
+            "degree": "MS",
+            "dept": "Orthopaedics",
+            "mobile": "9811079767",
+            "email": "drvknijhawan0103@yahoo.com",
+            "treatment": "Hip/Knee Arthroplasty, Revision Arthroplasty, Fracture Treatment, Co"
+        }
+    }
+}

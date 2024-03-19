@@ -40,7 +40,8 @@ def scrapeSGR(url):
         }
         print(count)
     
-    writeDocData("american", doctorList)
+    writeDocData("sgr", doctorList)
+    count = 0
     
 
 def scrapeData(url):
