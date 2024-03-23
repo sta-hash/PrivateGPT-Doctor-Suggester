@@ -1,0 +1,2028 @@
+{
+    "bombayhospital": {
+        "1": {
+            "name": "Satyavan Sharma",
+            "degree": "MD, D.M (Cardiology), MNAMS",
+            "dept": "Cardiologist",
+            "mobile": [
+                "022-22054532",
+                "9820122010"
+            ],
+            "email": " drsatyavan@hotmail.com",
+            "treatment": "Interventional Cardiology"
+        },
+        "2": {
+            "name": "A.C. Pereira",
+            "degree": "MBBS, MD - General Medicine, DM - Cardiology",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "3": {
+            "name": "E.D. Borges",
+            "degree": "MBBS, MD - General Medicine, DM - Cardiology",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "4": {
+            "name": "K.H. Ayyer",
+            "degree": "M.D (Gen. Medicine), DM (Cardiology)",
+            "dept": "Cardiologist",
+            "mobile": [
+                "022-22099060",
+                "9820051250"
+            ],
+            "email": " ayyerkh@gmail.com",
+            "treatment": "General Cardiology"
+        },
+        "5": {
+            "name": "Anil Kumar",
+            "degree": "MBBS , DM (Cardiology)",
+            "dept": "Cardiologist",
+            "mobile": [
+                "022-22006848",
+                "9820280402"
+            ],
+            "email": " drkumaranil122@gmail.com",
+            "treatment": "Coronary Angiography, Coronary Angioplasty, Valvuloplasty, Pulmonary Vulvuloplasty, Renal Angiography, Pacemaker Implantation"
+        },
+        "6": {
+            "name": "Ramesh Kawar",
+            "degree": "MBBS, MD - General Medicine, DM - Cardiology",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "7": {
+            "name": "B.C. Kalmath",
+            "degree": "MD - Medicine, DM - Cardiology Interventional Cardiologist",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "8": {
+            "name": "Anil Sharma",
+            "degree": "MD, DM (Card.), FACC (USA)",
+            "dept": "Cardiologist",
+            "mobile": [
+                "022-40511333",
+                "9820071077"
+            ],
+            "email": " dranilheart@yahoo.co.in",
+            "treatment": "Interventional Cardiology"
+        },
+        "9": {
+            "name": "Nagesh Waghmare",
+            "degree": "Dm - Cardiology | Dnb - General Medicine | Associate Fesc Interventional Cardiologist",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "10": {
+            "name": "Sameer Pagad",
+            "degree": "MBBS, DNB - Cardiology Cardiologist",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "11": {
+            "name": "Ajay Chaurasia",
+            "degree": "",
+            "dept": "Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "12": {
+            "name": "R. G. Goyal",
+            "degree": "MD (Medicine)",
+            "dept": "Non-Invasive Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "13": {
+            "name": "Moh\u2019d Taufiq Baksh",
+            "degree": "MBBS, MD, PGDCC (Cardiology)",
+            "dept": "Non-Invasive Cardiologist",
+            "mobile": [
+                "022-22053427",
+                "+91-9029058291"
+            ],
+            "email": " dr_taufiqmd@rediffmail.com",
+            "treatment": "Echocardiography, Research"
+        },
+        "14": {
+            "name": "Vruti Vaghela",
+            "degree": "",
+            "dept": "Non-Invasive Cardiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "15": {
+            "name": "S.Bhattacharyya",
+            "degree": "",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "16": {
+            "name": "D.S. Saksena",
+            "degree": "MBBS, FACS, FACC-DABS, DABTS, FIACS, D.Sc",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "17": {
+            "name": "A. Trivedi",
+            "degree": "M.S (Gen Surgery), M.CH",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "18": {
+            "name": "Anand Somaya",
+            "degree": "M.S, FICA, FACP, FIACS, FVSI",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "19": {
+            "name": "Y.C. Agnihotri",
+            "degree": "MBBS , MS(Gen), MCH (CVTS)",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "20": {
+            "name": "Rajendra Umbarkar",
+            "degree": "",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "21": {
+            "name": "Krishnaprasad Irniraya",
+            "degree": "",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "22": {
+            "name": "Manish Garg",
+            "degree": "",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "23": {
+            "name": "Sandeep P Varma",
+            "degree": "",
+            "dept": "Cardiovascular Thoracic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "24": {
+            "name": "Piya Ballani Thakkar",
+            "degree": "",
+            "dept": "Endocrinologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "25": {
+            "name": "N.H. Banka",
+            "degree": "MD (BOM), FCPS, FACG (USA)",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "26": {
+            "name": "Pravin Rathi",
+            "degree": "MD, DNB, DM, MISG, FICPGastroentrologistHepatologist, Therapeutic Endoscopist",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "27": {
+            "name": "Amit Mandot",
+            "degree": "",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "28": {
+            "name": "Vaibhav Somani",
+            "degree": "",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "29": {
+            "name": "Nitin Aherrao",
+            "degree": "",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "30": {
+            "name": "Gajanan Rodge",
+            "degree": "DNB (Medicine), DrNB (Gastro), MNAMS",
+            "dept": "Gastroenterologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "31": {
+            "name": "A.L. Kirpalani",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "32": {
+            "name": "Viswanath Billa",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "33": {
+            "name": "Shrirang Bichu",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "34": {
+            "name": "Hardik Shah",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "35": {
+            "name": "Dilip A. Kirpalani",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "36": {
+            "name": "Satarupa Deb",
+            "degree": "",
+            "dept": "Nephrologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "37": {
+            "name": "B.S. Singhal",
+            "degree": "MD (Bom), D.SC (Hon), FRCP (Lond), FRCP (Edin), FAMS",
+            "dept": "Neurologist",
+            "mobile": [],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Multiple Sclerosis, Mysthenia, General Neurology"
+        },
+        "38": {
+            "name": "N.E. Bharucha",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "39": {
+            "name": "S.V. Khadilkar",
+            "degree": "MD, DM, DNBE",
+            "dept": "Neurologist",
+            "mobile": [
+                "022-22072489"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Neurology"
+        },
+        "40": {
+            "name": "J. Lalkaka",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "41": {
+            "name": "Nirmal Surya",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "42": {
+            "name": "Sushil Tandel",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "43": {
+            "name": "Vibhor Pardasani",
+            "degree": "DM (AIIMS, New Delhi)",
+            "dept": "Neurologist",
+            "mobile": [
+                "9833323681"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Epilepsy, Stroke, General Neurology"
+        },
+        "44": {
+            "name": "Rakesh Singh",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "45": {
+            "name": "Varsha A. Patil",
+            "degree": "MD, DNB (Pediatrics), DM (Neurology)",
+            "dept": "Neurologist",
+            "mobile": [
+                "9833182577",
+                "022-40511777"
+            ],
+            "email": " drvarsha.a.patil@gmail.com",
+            "treatment": "Pediatric Neurology, Epilepsy, AutoimmuneNeurology"
+        },
+        "46": {
+            "name": "Mehul Desai",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "47": {
+            "name": "Kanchana S. Pillai",
+            "degree": "",
+            "dept": "Neurologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "48": {
+            "name": "C.E. Deopujari",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "49": {
+            "name": "K.E. Turel",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "50": {
+            "name": "Mahesh Choudhari",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "51": {
+            "name": "Atul Goel",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "52": {
+            "name": "Suneel Shah",
+            "degree": "MS, M.Ch.(Neurosurgery),F.R.C.S (Surgical Neurology)",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "53": {
+            "name": "Vikram Karmarkar",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "54": {
+            "name": "Nirav Mehta",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "55": {
+            "name": "Chandan Mohanty",
+            "degree": "",
+            "dept": "Neuro Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "56": {
+            "name": "Kishore Adyanthaya",
+            "degree": "",
+            "dept": "Paediatric Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "57": {
+            "name": "Sushmita Bhatnagar",
+            "degree": "",
+            "dept": "Paediatric Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "58": {
+            "name": "Ashok Gupta",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "59": {
+            "name": "Mukund Thatte",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "60": {
+            "name": "Nitin Mokal",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "61": {
+            "name": "Amresh Baliarsing",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "62": {
+            "name": "Viraj Tambwekar",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "63": {
+            "name": "Vinay Jacob",
+            "degree": "MS, MCh, DNB (Plastic Surgery)",
+            "dept": "Plastic Surgeon",
+            "mobile": [
+                "022-22067676",
+                "9820046544"
+            ],
+            "email": "  vinayjacob@gmail.com",
+            "treatment": "Aesthetic Breast Surgery, Tuberous Breasts, Liposuction, Tummy Tuck,\n                                        Gynecomastia, Maxillo-Facial Surgery, Reconstructive Surgery"
+        },
+        "64": {
+            "name": "Anshuman Manaswi",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "65": {
+            "name": "Akshay Deshpande",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "66": {
+            "name": "Amita Hiremath",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "67": {
+            "name": "Tanmay Joshi",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "68": {
+            "name": "Chirag Bhansali",
+            "degree": "",
+            "dept": "Plastic Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "69": {
+            "name": "Sujeet K. Rajan",
+            "degree": "MD, DETRD, DNB (Respiratory Medicine)",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "70": {
+            "name": "ShyamSunder Tampi",
+            "degree": "MD (Gen. Medicine), DM (Pulmonary Medicine & Critical Care)",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "71": {
+            "name": "Amita Nene",
+            "degree": "",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "72": {
+            "name": "Pratibha Singhal",
+            "degree": "",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "73": {
+            "name": "Kapil Salgia",
+            "degree": "MD( Chest Medicine), FCCP ( USA)",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "74": {
+            "name": "Avya Bansal",
+            "degree": "MD, DNB, FAPSR, MNAMS",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "75": {
+            "name": "Aditya Agarwal",
+            "degree": "",
+            "dept": "Pulmonologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "76": {
+            "name": "Varsha Bagul",
+            "degree": "",
+            "dept": "Rheumatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "77": {
+            "name": "Mamta Venkatesh",
+            "degree": "",
+            "dept": "Rheumatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "78": {
+            "name": "D.D. Gaur",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "79": {
+            "name": "R.K. Garg",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "80": {
+            "name": "S.W. Thatte",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "81": {
+            "name": "J.N. Kulkarni",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "82": {
+            "name": "Umesh Oza",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "83": {
+            "name": "Prashant Pattnaik",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "84": {
+            "name": "Mukund Andankar",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "85": {
+            "name": "H.M. Punjani",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "86": {
+            "name": "Varun Gunavanthe",
+            "degree": "",
+            "dept": "Urologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "87": {
+            "name": "B.K. Smruti",
+            "degree": "",
+            "dept": "Medical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "88": {
+            "name": "Bhavna Parikh",
+            "degree": "",
+            "dept": "Medical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "89": {
+            "name": "Bharat Bhosale",
+            "degree": "",
+            "dept": "Medical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "90": {
+            "name": "Rohit R. Pai",
+            "degree": "",
+            "dept": "Medical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "91": {
+            "name": "Preetam Jain",
+            "degree": "",
+            "dept": "Medical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "92": {
+            "name": "P. B. Desai",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "93": {
+            "name": "Prakash Patil",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "94": {
+            "name": "S. Gangwal",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "95": {
+            "name": "Vikram D. Sanghvi",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "96": {
+            "name": "Sanjay Sharma",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "97": {
+            "name": "Anil Keith Dcruz",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "98": {
+            "name": "M. P. Maheshwari",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "99": {
+            "name": "Prashant Kerkar",
+            "degree": "M.S, D.N.B, MRCS, Surgical Oncology (TMH)",
+            "dept": "Surgical Oncologist",
+            "mobile": [
+                "022-22067676",
+                "9820552108"
+            ],
+            "email": "  drprashantkerkar@hotmail.com",
+            "treatment": "Hepato-Pancreatic Biliary And Gastrointestinal Surgery"
+        },
+        "100": {
+            "name": "Suryakant Choudhary",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "101": {
+            "name": "Rakesh Katna",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "102": {
+            "name": "Rajesh Shinde",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "103": {
+            "name": "Vinay Jathen",
+            "degree": "",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "104": {
+            "name": "Gaurav D Patel",
+            "degree": "MS, DrNB (Surgical Oncology)",
+            "dept": "Surgical Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "105": {
+            "name": "M.B. Agarwal",
+            "degree": "",
+            "dept": "Haemato-Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "106": {
+            "name": "Shyam Rathi",
+            "degree": "",
+            "dept": "Haemato-Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "107": {
+            "name": "Rashmi Dalvi",
+            "degree": "",
+            "dept": "Paediatric Haemato-Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "108": {
+            "name": "Dilip Nikam",
+            "degree": "",
+            "dept": "Radiation Oncologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "109": {
+            "name": "S. Wagle",
+            "degree": "",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "110": {
+            "name": "Pravin Amin",
+            "degree": "",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "111": {
+            "name": "ShyamSunder Tampi",
+            "degree": "MD (Gen. Medicine), DM (Pulmonary Medicine & Critical Care)",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "112": {
+            "name": "Sujata Mehta",
+            "degree": "M.D. (Med). D.N.B. (Med). MNAMS, IDCC, IFCC, D.N.B. (Critical Care)",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "113": {
+            "name": "Suresh Jain",
+            "degree": "MD (Medicine)",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "114": {
+            "name": "Farokh Vakil",
+            "degree": "MD (Medicine), DNB (Medicine), MNAMS",
+            "dept": "Critical Care Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "115": {
+            "name": "Deepak Parikh",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "116": {
+            "name": "Avani Shah",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "117": {
+            "name": "Rajesh Kumar",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "118": {
+            "name": "Nilesh Goyal",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "119": {
+            "name": "Sangeeta Kamboj Shah",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "120": {
+            "name": "Raashi Mehta",
+            "degree": "",
+            "dept": "Dermatologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "121": {
+            "name": "Anand Shah",
+            "degree": "M.S, D.O.R.L",
+            "dept": "ENT",
+            "mobile": [
+                "022-23637670",
+                "9819041072"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Surgery For Deafness And Discharging Ears"
+        },
+        "122": {
+            "name": "Nishit Shah",
+            "degree": "MS, DNB, DORL",
+            "dept": "ENT",
+            "mobile": [
+                "9930773396"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Endoscopic Sinus Surgery Endoscopic Skullbase Surgery"
+        },
+        "123": {
+            "name": "Rajeev Nerurkar",
+            "degree": "MS (ENT)",
+            "dept": "ENT",
+            "mobile": [
+                "022-22067676",
+                "9820192774"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Otology And Cochlear Implant Salivary Gland Adult Endoscopy Endoscopic Sinus & Thyroid Surgery"
+        },
+        "124": {
+            "name": "Sujata Muranjan",
+            "degree": "",
+            "dept": "ENT",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "125": {
+            "name": "Meenesh Juvekar",
+            "degree": "M.S (Bom), D.N.B, D.O.R.L, M.N.A.M.S",
+            "dept": "ENT",
+            "mobile": [
+                "022-25210664"
+            ],
+            "email": "meeneshj@gmail.com",
+            "treatment": "Endoscopic Sinus Surgery,Facial Nerve Surgery, Sleep Apnoes"
+        },
+        "126": {
+            "name": "Anamika Rathore",
+            "degree": "",
+            "dept": "ENT",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "127": {
+            "name": "Nupur Nerurkar",
+            "degree": "",
+            "dept": "Laryngologist & Voice Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "128": {
+            "name": "B.L. Chitlangia",
+            "degree": "M.S",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "129": {
+            "name": "V.N. Shrikhande",
+            "degree": "",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "130": {
+            "name": "A.G. Nande",
+            "degree": "",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "131": {
+            "name": "M.G. Nariani",
+            "degree": "M.S, FICS, FACRS",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "132": {
+            "name": "M.M. Begani",
+            "degree": "MS, F.A.C.R.S.I, F.I.A.G.E.S, F.A.I.S, F.I.C.S (USA)",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "133": {
+            "name": "S. Chatterjee",
+            "degree": "MS, FCPS, FRCS",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "134": {
+            "name": "Niranjan Agarwal",
+            "degree": "MS (Gen Surgery), DNB (Gen Surgery), FACRSI",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "135": {
+            "name": "Jadliwala M. K.",
+            "degree": "",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "136": {
+            "name": "Rajesh Yadav",
+            "degree": "MBBS, MS, FICS, FILT",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "137": {
+            "name": "Anirudha Patil",
+            "degree": "",
+            "dept": "General Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "138": {
+            "name": "S.K. Desai",
+            "degree": "",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "139": {
+            "name": "Pratima Chipalkatti",
+            "degree": "",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "140": {
+            "name": "Shashi Goyal",
+            "degree": "M.D (Gynae)",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "141": {
+            "name": "Suvarna S. Khadilkar",
+            "degree": "MD, DGO, FICOG, CIMP, PG DIPLOMA, Endocrinology (UK), PGDIP (Endo)(UK)",
+            "dept": "Gynaecologist",
+            "mobile": [
+                "09820078703"
+            ],
+            "email": " suvarnakhandilkar@yahoo.com",
+            "treatment": "Puberty Disorders, Menstrual Disorder, PCOD, Basic Infertility, IVF, Menopause, Osteoporosis, Obesity, Male & Female Endocrinological Problem,Thyroid DisOrder, Health Counselling."
+        },
+        "142": {
+            "name": "Prema Kania",
+            "degree": "",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "143": {
+            "name": "Kunjal Bhatija",
+            "degree": "",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "144": {
+            "name": "Nitin Pai Dhungat",
+            "degree": "DGO, DNB",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "145": {
+            "name": "Varsha Pai Dhungat",
+            "degree": "MD, DGO",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "146": {
+            "name": "Nagendra Sardesh Pande",
+            "degree": "DNB, FCPS, DGO, MBBS",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "147": {
+            "name": "Shilpa A. Choudhary",
+            "degree": "MD",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "148": {
+            "name": "Neelima Mantri",
+            "degree": "MBBS, MS (Obstetric & Gynaecology)",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "149": {
+            "name": "Tejaswi D Kamble",
+            "degree": "MBBS, MS (Obstetric & Gynaecology)",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "150": {
+            "name": "Arpita Chakraborty",
+            "degree": "",
+            "dept": "Gynaecologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "151": {
+            "name": "J. Sorabjee",
+            "degree": "",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "152": {
+            "name": "S. Jayaram",
+            "degree": "",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "153": {
+            "name": "S. Wagle",
+            "degree": "",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "154": {
+            "name": "Akhilesh Sharma",
+            "degree": "MBBS, MD (Med), DNB (Med)",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "155": {
+            "name": "Shantilal Jain",
+            "degree": "M.D",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "156": {
+            "name": "Narendra Pareek",
+            "degree": "MBBS, MD",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "157": {
+            "name": "Farokh Vakil",
+            "degree": "MD (Medicine), DNB (Medicine), MNAMS",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "158": {
+            "name": "Suresh Jain",
+            "degree": "MD (Medicine)",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "159": {
+            "name": "Sujata Mehta",
+            "degree": "M.D. (Med). D.N.B. (Med). MNAMS, IDCC, IFCC, D.N.B. (Critical Care)",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "160": {
+            "name": "Gautam Bhansali",
+            "degree": "MBBS, DNB, FCPS, MD",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "161": {
+            "name": "Swapnil Gautam",
+            "degree": "MD, DNB, MRCP (London), MRCPE(Edinburgh), MRCPS (Glasgow)",
+            "dept": "General Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "162": {
+            "name": "Shishir Kumar",
+            "degree": "MBDA (Lond), DTMAH (Liverpool)",
+            "dept": "Diabetologist",
+            "mobile": [
+                "022-22067676",
+                "9820049955"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "T2 Dm/ Early Insulin Initiation"
+        },
+        "163": {
+            "name": "A. Gokani",
+            "degree": "MD",
+            "dept": "Diabetologist",
+            "mobile": [
+                "022-22018679",
+                "022-22067676"
+            ],
+            "email": " anand_gokani@hotmail.com",
+            "treatment": "Lifestyle, Nutrition, Diabetes"
+        },
+        "164": {
+            "name": "Rahul Baxi",
+            "degree": "",
+            "dept": "Diabetologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "165": {
+            "name": "R.C. Patel",
+            "degree": "M.S.(Ophthal), DOMS",
+            "dept": "Ophthalmologist",
+            "mobile": [],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Ant. Segment"
+        },
+        "166": {
+            "name": "Mayur Morekar",
+            "degree": "MS (Ophthalmology); MA (Counselling Psychology)DOMS., FCPS., DNB., FRCS (Glasg) (Ophthalmology)ADBA; PGDHM (Healthcare Management)PGDMLS (Medico-Legal Systems)",
+            "dept": "Ophthalmologist",
+            "mobile": [],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Uveitis, Neuro-Ophthalmology, Eye Inflammations & Infections, Cataract, Ocular Surface Disorders, Cornea, Inflammatory Glaucoma and Eye in Systemic Diseases"
+        },
+        "167": {
+            "name": "Nagendra Shah",
+            "degree": "",
+            "dept": "Ophthamologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "168": {
+            "name": "Sandeep Kataria",
+            "degree": "",
+            "dept": "Ophthamologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "169": {
+            "name": "Karobi Lahiri",
+            "degree": "",
+            "dept": "Ophthamologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "170": {
+            "name": "Neepa Thacker",
+            "degree": "",
+            "dept": "Ophthamologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "171": {
+            "name": "Ajay Dudani",
+            "degree": "",
+            "dept": "Ophthamologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "172": {
+            "name": "H.R. Jhunjhunwala",
+            "degree": "BSc., MBBS, D.ORTH, MS ORTH",
+            "dept": "Orthopaedic",
+            "mobile": [
+                "022 22053322",
+                "9821064068"
+            ],
+            "email": "  drhrj2@gmail.com",
+            "treatment": "Joint Replacement, Trauma"
+        },
+        "173": {
+            "name": "M.L. Saraf",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "174": {
+            "name": "Nilen Shah",
+            "degree": "MBBS, MS (Orth), D Orth, MCH",
+            "dept": "Orthopaedic",
+            "mobile": [
+                "022-23825673",
+                "9819776842"
+            ],
+            "email": " drnilen@gmail.com",
+            "treatment": "Knee Replacements, Mimmaccy Invasive"
+        },
+        "175": {
+            "name": "Parag Munshi",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "176": {
+            "name": "Hemant Bhandari",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "177": {
+            "name": "Hetal Chiniwala",
+            "degree": "MS, DNB, D.Ortho",
+            "dept": "Orthopaedic",
+            "mobile": [
+                "022-22067676",
+                "9819894840"
+            ],
+            "email": " hchiniwala@yahoo.com",
+            "treatment": "Sports Medicine, Shoulder, Aethroscopic Surgeries"
+        },
+        "178": {
+            "name": "Sujit N. Kordey",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "179": {
+            "name": "Ashish Agarwal",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "180": {
+            "name": "Girish Dewnany",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "181": {
+            "name": "Neilesh Talwalkar",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "182": {
+            "name": "Pradeep Nemade",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "183": {
+            "name": "Aditya Khemka",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "184": {
+            "name": "Atul Bhaskar",
+            "degree": "",
+            "dept": "Orthopaedic",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "185": {
+            "name": "Prem N. Sheth",
+            "degree": "",
+            "dept": "Paediatric",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "186": {
+            "name": "Ashish Shah",
+            "degree": "",
+            "dept": "Paediatric",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "187": {
+            "name": "Mukesh Sanklecha",
+            "degree": "",
+            "dept": "Paediatric",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "188": {
+            "name": "Deepak Mulchandani",
+            "degree": "",
+            "dept": "Paediatric",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "189": {
+            "name": "Sharita Shah",
+            "degree": "",
+            "dept": "Psychiatrist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "190": {
+            "name": "Milan Balakrishnan",
+            "degree": "",
+            "dept": "Psychiatrist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "191": {
+            "name": "Akanksha Maheshwari",
+            "degree": "",
+            "dept": "Psychiatrist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "192": {
+            "name": "Prakhar D Jain",
+            "degree": "",
+            "dept": "Psychiatrist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "193": {
+            "name": "Arvind Kulkarni",
+            "degree": "",
+            "dept": "Spine Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "194": {
+            "name": "Vishal Kundnani",
+            "degree": "",
+            "dept": "Spine Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "195": {
+            "name": "Zahir Abbas Merchant",
+            "degree": "",
+            "dept": "Spine Surgeon",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "196": {
+            "name": "Hemant Rathore",
+            "degree": "",
+            "dept": "PET-SCAN",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "197": {
+            "name": "Inder Talwar",
+            "degree": "",
+            "dept": "Imaging-CT & MRI",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "198": {
+            "name": "Sunila Jaggi",
+            "degree": "MD, DNB, DMRE, DHM",
+            "dept": "Imaging-CT & MRI",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "199": {
+            "name": "Sonali Shah",
+            "degree": "",
+            "dept": "Imaging-CT & MRI",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "200": {
+            "name": "Neha Shah",
+            "degree": "",
+            "dept": "Imaging-CT & MRI",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "201": {
+            "name": "Nirav Thaker",
+            "degree": "MBBS, MD (Radiodiagnosis)",
+            "dept": "Imaging-CT & MRI",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "202": {
+            "name": "Rupesh Kashikar",
+            "degree": "",
+            "dept": "USG",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "203": {
+            "name": "Manasi Zambre",
+            "degree": "",
+            "dept": "USG",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "204": {
+            "name": "Ketky Patil Rodge",
+            "degree": "",
+            "dept": "USG",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "205": {
+            "name": "D.B. Modi",
+            "degree": "",
+            "dept": "Mammography",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "206": {
+            "name": "Sharad Gaddge",
+            "degree": "",
+            "dept": "Mammography",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "207": {
+            "name": "Lily Pastakia",
+            "degree": "MBBS",
+            "dept": "Electroencephalogram",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "208": {
+            "name": "K.A. Mansukhani",
+            "degree": "",
+            "dept": "Electroneuromyography",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "209": {
+            "name": "Alika Sharma",
+            "degree": "",
+            "dept": "Electroneuromyography",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "210": {
+            "name": "Priyanka Chavan",
+            "degree": "",
+            "dept": "Electroneuromyography",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "211": {
+            "name": "Mrs. Anuradha Bantwal",
+            "degree": "",
+            "dept": "Professional Voice Therapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "212": {
+            "name": "Mrs. Nehal Kothari",
+            "degree": "",
+            "dept": "Voice And Swallowing Therapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "213": {
+            "name": "Mrs. Zainab Nagree-Hatimi",
+            "degree": "",
+            "dept": "Voice And Swallowing Therapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "214": {
+            "name": "Paresh Marathe",
+            "degree": "",
+            "dept": "Clinical Pathologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "215": {
+            "name": "Richa Bhartiya",
+            "degree": "",
+            "dept": "Clinical Pathologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "216": {
+            "name": "Rupali Parikh",
+            "degree": "",
+            "dept": "Clinical Pathologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "217": {
+            "name": "Hinal Shah",
+            "degree": "",
+            "dept": "Biochemistry",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "218": {
+            "name": "Asmita Sakle",
+            "degree": "",
+            "dept": "Microbiology",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "219": {
+            "name": "G.A. Muzumdar",
+            "degree": "",
+            "dept": "Histopathologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "220": {
+            "name": "Keyuri Patel",
+            "degree": "",
+            "dept": "Histopathologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "221": {
+            "name": "Maya Parihar",
+            "degree": "",
+            "dept": "Transfusion Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "222": {
+            "name": "Paresh Marathe",
+            "degree": "",
+            "dept": "Transfusion Medicine",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "223": {
+            "name": "R. G. Goyal",
+            "degree": "MD (Medicine)",
+            "dept": "ECG",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "224": {
+            "name": "Ketky Patil Rodge",
+            "degree": "",
+            "dept": "X-ray",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "225": {
+            "name": "D.B. Modi",
+            "degree": "",
+            "dept": "X-ray",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "226": {
+            "name": "Jyotsna Nadkarni",
+            "degree": "",
+            "dept": "Audiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "227": {
+            "name": "Shubham Prakash Shaniware",
+            "degree": "MASLP (Master in Audiology and Speech-Language Pathologist)",
+            "dept": "Audiologist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "228": {
+            "name": "Dilip Nikam",
+            "degree": "",
+            "dept": "Radiation Therapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "229": {
+            "name": "K. Chandavarkar",
+            "degree": "",
+            "dept": "Physiotherapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "230": {
+            "name": "Shobha Atre",
+            "degree": "",
+            "dept": "Physiotherapist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "231": {
+            "name": "Mrinal Amogh Pandit",
+            "degree": "",
+            "dept": "Physiotherapy",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "232": {
+            "name": "Missy Mathew",
+            "degree": "",
+            "dept": "Physiotherapy",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "233": {
+            "name": "A.P. Chitre",
+            "degree": "B.D.S, M.D.S (Maxilofacial &Oral Surgery)",
+            "dept": "Dental Specialist",
+            "mobile": [
+                "022-23675576",
+                "9820068400"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Temporo-Mandibular Joint, Facial Trauma"
+        },
+        "234": {
+            "name": "Gopal Sharma",
+            "degree": "MDS",
+            "dept": "Dental Specialist",
+            "mobile": [
+                "022-22052992",
+                "9820082682"
+            ],
+            "email": " drgopalsharma@gmail.com",
+            "treatment": "Dental Treatment"
+        },
+        "235": {
+            "name": "Harsh Vyas",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "236": {
+            "name": "M.K. Prakash",
+            "degree": "BDS, MDS",
+            "dept": "Dental Specialist",
+            "mobile": [
+                "022-22052992",
+                "9820059356"
+            ],
+            "email": " helpdesk@bombayhospital.com",
+            "treatment": "Orthodontics"
+        },
+        "237": {
+            "name": "P.M. Kumbhat",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "238": {
+            "name": "S.S. Mhatre",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "239": {
+            "name": "S.M. Jhaveri",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "240": {
+            "name": "Anil Varshney",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "241": {
+            "name": "Vibha Hedge",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "242": {
+            "name": "Kiara Kirpalani",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "243": {
+            "name": "Meena Dharadhar",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "244": {
+            "name": "Kunal Banavali",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        },
+        "245": {
+            "name": "Siddhi Khinvasara",
+            "degree": "",
+            "dept": "Dental Specialist",
+            "mobile": "",
+            "email": "",
+            "treatment": ""
+        }
+    }
+}

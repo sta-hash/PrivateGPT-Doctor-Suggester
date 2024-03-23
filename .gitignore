@@ -3,9 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.conda
+.vscode
+test_files
+
 # C extensions
 *.so
-test_files
 
 # Distribution / packaging
 .Python
