@@ -9,7 +9,6 @@ count = 0
 def writeDocData(org, docData):
     print("Writing to file...")
     with open("scraped_data_" + org +".json", 'a') as jsonFile:
-        # jsonFile.write(json.dumps({f"{org}": docData}), indent=4)
         jsonFile.write(json.dumps({f"{org}": docData}, indent=4))
 
 def decode_email(encoded_email):
@@ -77,7 +76,6 @@ def scrapeBombayHptl(url):
 
     for dept in jsonData["doctors"]:
         for doc in jsonData["doctors"][dept]:
-            # print(jsonData["doctors"][dept]['name'])
             soup = BeautifulSoup(requests.get(url + doc['slug']).text, 'html.parser')
             # print(requests.get(url + doc['slug']).text)
             area_of_interest = ""
