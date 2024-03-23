@@ -5,6 +5,7 @@ __pycache__/
 
 .conda
 .vscode
+test_files
 
 # C extensions
 *.so
