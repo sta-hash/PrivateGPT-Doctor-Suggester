@@ -110,12 +110,13 @@ def scrapeBombayHptl(url):
     writeDocData("bombayhospital", doctorList)
     count = 0
 
-def scrapeData(url):
-    # scrapeSGR(url)
-    scrapeBombayHptl(url)
+def scrapeData():
+    scrapeSGR("https://sgrh.com/assets/angular/api/service.php")
+    scrapeBombayHptl("https://doctor.bombayhospital.com/")
 
-if __name__ == "__main__": 
-    with open("List of Hospitals URL.txt", 'r') as file:
-        for url in file.readlines():
-            scrapeData(url.strip())
-            break
+if __name__ == "__main__":
+    scrapeData() 
+    # with open("List of Hospitals URL.txt", 'r') as file:
+    #     for url in file.readlines():
+    #         scrapeData(url.strip())
+    #         break
