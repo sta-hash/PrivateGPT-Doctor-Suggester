@@ -6,7 +6,7 @@
 ### Documentation
 **Firstly** We are making a flow diagram in which we decide thingss how to make,how to work and what we need.
 **Secondly** prepare a file named as scrape.py in which it contain:
- (a) Imports: The code imports necessary libraries including re, json, urllib, requests, and BeautifulSoup from bs4.
+ (a) Imports: The code imports necessary libraries including re, json, urllib, requests, BeautifulSoup from bs4.
  (b) Global Variables: It initializes a global variable count to keep track of the number of doctors scraped.
  (c) Helper Functions:
   - writeDocData(org, docData): Writes scraped doctor data to a JSON file.
